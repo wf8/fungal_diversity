@@ -1,0 +1,1561 @@
+Sample,Species,Count,Treatment_leaflet,Treatment_replicate,Treatment_binned,Treatment_binned_early-late
+A_1_1_15,Robillarda sessilis,1,A_1_1,A_1,A,A
+A_1_1_3,Pestalotiopsis theae,1,A_1_1,A_1,A,A
+A_1_1_8,Seimatosporium eucalypti,1,A_1_1,A_1,A,A
+A_1_2_10,Heliscus submersus,1,A_1_2,A_1,A,A
+A_1_2_12,Cladosporium perangustum / Cladosporium tenuissimum,1,A_1_2,A_1,A,A
+A_1_2_13,Seimatosporium eucalypti,1,A_1_2,A_1,A,A
+A_1_2_14,Penicillium paxilli,1,A_1_2,A_1,A,A
+A_1_2_16,Heliscus submersus,1,A_1_2,A_1,A,A
+A_1_2_17,Discosia sp 1 KT_2010,1,A_1_2,A_1,A,A
+A_1_2_18,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,A_1_2,A_1,A,A
+A_1_2_19,Pestalotiopsis funerea,1,A_1_2,A_1,A,A
+A_1_2_2,Discosia sp 1 KT_2010,1,A_1_2,A_1,A,A
+A_1_2_20,Seimatosporium eucalypti,1,A_1_2,A_1,A,A
+A_1_2_21,Seimatosporium eucalypti,1,A_1_2,A_1,A,A
+A_1_2_22,Heliscus submersus,1,A_1_2,A_1,A,A
+A_1_2_25,Hypoxylon anthochroum,1,A_1_2,A_1,A,A
+A_1_2_4,Pestalotiopsis funerea,1,A_1_2,A_1,A,A
+A_1_2_5,Heliscus submersus,1,A_1_2,A_1,A,A
+A_1_2_6,Pestalotiopsis sp EN 10,1,A_1_2,A_1,A,A
+A_1_2_7,Pestalotiopsis funerea,1,A_1_2,A_1,A,A
+A_1_2_8,Dictyochaeta simplex,1,A_1_2,A_1,A,A
+A_1_2_9,Heliscus submersus,1,A_1_2,A_1,A,A
+A_1_3_13,Discosia sp 7 KT_2010,1,A_1_3,A_1,A,A
+A_1_3_14,Discosia sp 1 KT_2010,1,A_1_3,A_1,A,A
+A_1_3_15,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,A_1_3,A_1,A,A
+A_1_3_18,Robillarda sessilis,1,A_1_3,A_1,A,A
+A_1_3_7,Discosia sp 1 KT_2010,1,A_1_3,A_1,A,A
+A_1_4_13,Seimatosporium eucalypti,1,A_1_4,A_1,A,A
+A_1_4_15,Discosia sp 1 KT_2010,1,A_1_4,A_1,A,A
+A_1_4_18,Discosia sp 1 KT_2010,1,A_1_4,A_1,A,A
+A_1_4_19,Discosia sp 7 KT_2010,1,A_1_4,A_1,A,A
+A_1_4_2,Seimatosporium eucalypti,1,A_1_4,A_1,A,A
+A_1_4_20,Pestalotiopsis funerea,1,A_1_4,A_1,A,A
+A_1_4_22,Seimatosporium eucalypti,1,A_1_4,A_1,A,A
+A_1_4_3,Seimatosporium eucalypti,1,A_1_4,A_1,A,A
+A_1_4_6,Heliscus submersus,1,A_1_4,A_1,A,A
+A_1_5_1,Discosia sp 1 KT_2010,1,A_1_5,A_1,A,A
+A_1_5_10,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,A_1_5,A_1,A,A
+A_1_5_12,Trichoderma strigosum,1,A_1_5,A_1,A,A
+A_1_5_13,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,A_1_5,A_1,A,A
+A_1_5_15,Discosia sp 1 KT_2010,1,A_1_5,A_1,A,A
+A_1_5_16,Seimatosporium eucalypti,1,A_1_5,A_1,A,A
+A_1_5_20,Lasiodiplodia theobromae,1,A_1_5,A_1,A,A
+A_1_5_21,Discosia sp 1 KT_2010,1,A_1_5,A_1,A,A
+A_1_5_23,Volutella lini,1,A_1_5,A_1,A,A
+A_1_5_24,Xylaria curta,1,A_1_5,A_1,A,A
+A_1_5_25,Discosia sp 1 KT_2010,1,A_1_5,A_1,A,A
+A_1_5_3,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,A_1_5,A_1,A,A
+A_1_5_5,Lasiodiplodia theobromae,1,A_1_5,A_1,A,A
+A_1_5_6,Discosia sp 2 KT_2010,1,A_1_5,A_1,A,A
+A_1_5_7,Discosia sp 1 KT_2010,1,A_1_5,A_1,A,A
+A_1_5_8,Discosia sp 1 KT_2010,1,A_1_5,A_1,A,A
+A_2_1_1,Pestalotiopsis fici,1,A_2_1,A_2,A,A
+A_2_1_10,Penicillium multicolor,1,A_2_1,A_2,A,A
+A_2_1_17,Discosia sp 1 KT_2010,1,A_2_1,A_2,A,A
+A_2_1_5,Penicillium multicolor,1,A_2_1,A_2,A,A
+A_2_2_21,Eutypa lata,1,A_2_2,A_2,A,A
+A_2_2_4,Pestalotiopsis vismiae,1,A_2_2,A_2,A,A
+A_2_2_6,Pestalotiopsis funerea,1,A_2_2,A_2,A,A
+A_2_3_11,Thozetella falcata,1,A_2_3,A_2,A,A
+A_2_3_13,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_14,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_15,Daldinia loculata,1,A_2_3,A_2,A,A
+A_2_3_16,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_19,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_2,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_20,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_22,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_23,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_3,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_4,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_6,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_7,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_8,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_3_9,Xylaria cubensis,1,A_2_3,A_2,A,A
+A_2_4_15,Penicillium multicolor,1,A_2_4,A_2,A,A
+A_2_4_23,Penicillium paxilli,1,A_2_4,A_2,A,A
+A_2_4_7,Microdochium bolleyi,1,A_2_4,A_2,A,A
+A_2_4_8,Seimatosporium botan,1,A_2_4,A_2,A,A
+A_2_5_12,Endomelanconiopsis endophytica,1,A_2_5,A_2,A,A
+A_2_5_14,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,A_2_5,A_2,A,A
+A_2_5_17,Penicillium paxilli,1,A_2_5,A_2,A,A
+A_2_5_18,Penicillium multicolor,1,A_2_5,A_2,A,A
+A_2_5_23,Penicillium multicolor,1,A_2_5,A_2,A,A
+A_2_5_4,Penicillium paxilli,1,A_2_5,A_2,A,A
+A_2_5_6,Entonaema pallida,1,A_2_5,A_2,A,A
+A_3_2_12,Entonaema pallida,1,A_3_2,A_3,A,A
+A_3_2_16,Preussia pseudominima,1,A_3_2,A_3,A,A
+A_3_2_8,Rosellinia bambusae,1,A_3_2,A_3,A,A
+A_3_3_12,Xylaria cubensis,1,A_3_3,A_3,A,A
+A_3_3_24,Xylaria cubensis,1,A_3_3,A_3,A,A
+A_3_5_16,Penicillium griseofulvum,1,A_3_5,A_3,A,A
+A_3_5_4,Xylaria allantoidea,1,A_3_5,A_3,A,A
+A_3_5_6,Trichoderma strigosum,1,A_3_5,A_3,A,A
+A_3_5_7,Rosellinia bambusae,1,A_3_5,A_3,A,A
+A_3_5_8,Trichoderma strigosum,1,A_3_5,A_3,A,A
+A_4_1_12,Geosmithia sp U119A,1,A_4_1,A_4,A,A
+A_4_1_13,Pseudovalsaria ferruginea,1,A_4_1,A_4,A,A
+A_4_1_18,Morchella sp Mes_26,1,A_4_1,A_4,A,A
+A_4_1_2,Geosmithia sp U119A,1,A_4_1,A_4,A,A
+A_4_1_21,Coniolariella hispanica,1,A_4_1,A_4,A,A
+A_4_2_1,Trichoderma strigosum,1,A_4_2,A_4,A,A
+A_4_2_12,Pseudovalsaria ferruginea,1,A_4_2,A_4,A,A
+A_4_2_14,Trichoderma strigosum,1,A_4_2,A_4,A,A
+A_4_2_18,Trichoderma strigosum,1,A_4_2,A_4,A,A
+A_4_2_22,Trichoderma strigosum,1,A_4_2,A_4,A,A
+A_4_2_25,Trichoderma strigosum,1,A_4_2,A_4,A,A
+A_4_2_5,Anthostomella eucalyptorum,1,A_4_2,A_4,A,A
+A_4_2_6,Eutypa lata,1,A_4_2,A_4,A,A
+A_4_3_12,Hypocrea lixii / Trichoderma cf harzianum ROG_2010,1,A_4_3,A_4,A,A
+A_4_3_14,Pseudovalsaria ferruginea,1,A_4_3,A_4,A,A
+A_4_3_15,Hypocrea lixii / Trichoderma cf harzianum ROG_2010,1,A_4_3,A_4,A,A
+A_4_3_21,Penicillium multicolor,1,A_4_3,A_4,A,A
+A_4_3_3,Bionectria aff ochroleuca ROG_2010,1,A_4_3,A_4,A,A
+A_4_3_7,Hypocrea lixii / Trichoderma cf harzianum ROG_2010,1,A_4_3,A_4,A,A
+A_4_4_10,Phoma fungicola,1,A_4_4,A_4,A,A
+A_4_5_19,Entonaema pallida,1,A_4_5,A_4,A,A
+A_4_5_2,Coniolariella hispanica,1,A_4_5,A_4,A,A
+A_4_5_21,Hypocrea lixii / Trichoderma cf harzianum ROG_2010,1,A_4_5,A_4,A,A
+A_4_5_25,Pseudovalsaria ferruginea,1,A_4_5,A_4,A,A
+A_4_5_7,Xylaria laevis,1,A_4_5,A_4,A,A
+A_4_5_8,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,A_4_5,A_4,A,A
+DR_10_1_11,Mycoleptodiscus indicus,1,DR_10_1,DR_10,DR,DR_late
+DR_10_1_12,Pestalotiopsis vismiae,1,DR_10_1,DR_10,DR,DR_late
+DR_10_1_15,Guignardia mangiferae,1,DR_10_1,DR_10,DR,DR_late
+DR_10_1_6,Pestalotiopsis vismiae,1,DR_10_1,DR_10,DR,DR_late
+DR_10_1_7,Entonaema pallida,1,DR_10_1,DR_10,DR,DR_late
+DR_10_1_9,Oidiodendron flavum,1,DR_10_1,DR_10,DR,DR_late
+DR_10_2_14,Discosia sp 1 KT_2010,1,DR_10_2,DR_10,DR,DR_late
+DR_10_2_19,Microdochium bolleyi,1,DR_10_2,DR_10,DR,DR_late
+DR_10_2_2,Lasiodiplodia venezuelensis,1,DR_10_2,DR_10,DR,DR_late
+DR_10_2_3,Valsa salicina,1,DR_10_2,DR_10,DR,DR_late
+DR_10_2_7,Daldinia loculata,1,DR_10_2,DR_10,DR,DR_late
+DR_10_3_14,Lasiodiplodia venezuelensis,1,DR_10_3,DR_10,DR,DR_late
+DR_10_4_1,Fusarium sp FAN_2011a,1,DR_10_4,DR_10,DR,DR_late
+DR_10_4_11,Discosia sp 7 KT_2010,1,DR_10_4,DR_10,DR,DR_late
+DR_10_4_15,Cladobotryum cubitense,1,DR_10_4,DR_10,DR,DR_late
+DR_10_4_19,Microdochium bolleyi,1,DR_10_4,DR_10,DR,DR_late
+DR_10_4_24,Fusarium sp FAN_2011a,1,DR_10_4,DR_10,DR,DR_late
+DR_10_4_25,Geosmithia sp U119A,1,DR_10_4,DR_10,DR,DR_late
+DR_10_4_7,Fusarium sp FAN_2011a,1,DR_10_4,DR_10,DR,DR_late
+DR_10_4_8,Geosmithia sp U119A,1,DR_10_4,DR_10,DR,DR_late
+DR_10_5_4,Diaporthe sp 12 PRJ_2013,1,DR_10_5,DR_10,DR,DR_late
+DR_10_6_15,Geosmithia sp U119A,1,DR_10_6,DR_10,DR,DR_late
+DR_10_6_16,Xylaria cubensis,1,DR_10_6,DR_10,DR,DR_late
+DR_10_6_17,Xylaria cubensis,1,DR_10_6,DR_10,DR,DR_late
+DR_10_6_18,Geosmithia sp U119A,1,DR_10_6,DR_10,DR,DR_late
+DR_10_6_20,Geosmithia sp U119A,1,DR_10_6,DR_10,DR,DR_late
+DR_10_6_4,Colletotrichum spinaciae,1,DR_10_6,DR_10,DR,DR_late
+DR_10_7_16,Lasiodiplodia theobromae,1,DR_10_7,DR_10,DR,DR_late
+DR_10_7_17,Botryosphaeria rhodina,1,DR_10_7,DR_10,DR,DR_late
+DR_10_7_20,Discosia sp 7 KT_2010,1,DR_10_7,DR_10,DR,DR_late
+DR_10_7_7,Discosia sp 7 KT_2010,1,DR_10_7,DR_10,DR,DR_late
+DR_10_8_1,Coniolariella hispanica,1,DR_10_8,DR_10,DR,DR_late
+DR_10_8_11,Pestalotiopsis vismiae,1,DR_10_8,DR_10,DR,DR_late
+DR_10_8_13,Xylaria longipes,1,DR_10_8,DR_10,DR,DR_late
+DR_10_8_14,Fusarium sp FAN_2011a,1,DR_10_8,DR_10,DR,DR_late
+DR_10_8_19,Pestalotiopsis vismiae,1,DR_10_8,DR_10,DR,DR_late
+DR_10_8_21,Geosmithia sp U119A,1,DR_10_8,DR_10,DR,DR_late
+DR_10_8_5,Fusarium sp FAN_2011a,1,DR_10_8,DR_10,DR,DR_late
+DR_10_8_9,Pestalotiopsis vismiae,1,DR_10_8,DR_10,DR,DR_late
+DR_10_9_15,Xylaria cubensis,1,DR_10_9,DR_10,DR,DR_late
+DR_11_1_1,Botryosphaeria rhodina,1,DR_11_1,DR_11,DR,DR_late
+DR_11_1_15,Coniolariella hispanica,1,DR_11_1,DR_11,DR,DR_late
+DR_11_1_20,Coniolariella hispanica,1,DR_11_1,DR_11,DR,DR_late
+DR_11_1_4,Pestalotiopsis vismiae,1,DR_11_1,DR_11,DR,DR_late
+DR_11_1_8,Xylaria cubensis,1,DR_11_1,DR_11,DR,DR_late
+DR_11_10_1,Xylaria longipes,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_10,Nemania aenea,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_11,Pseudovalsaria ferruginea,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_12,Xylaria cubensis,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_15,Fusarium sp FAN_2011a,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_16,Morchella sp Mes_9,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_17,Fusarium sp FAN_2011a,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_18,Fusarium sp FAN_2011a,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_19,Xylaria cubensis,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_21,Geosmithia sp U119A,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_23,Pseudovalsaria ferruginea,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_25,Fusarium sp FAN_2011a,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_5,Geosmithia sp U119A,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_6,Xylaria bambusicola,1,DR_11_10,DR_11,DR,DR_late
+DR_11_10_8,Fusarium sp FAN_2011a,1,DR_11_10,DR_11,DR,DR_late
+DR_11_2_10,Fusarium sp FAN_2011a,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_11,Fusarium sp FAN_2011a,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_13,Fusarium sp FAN_2011a,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_16,Scytalidium thermophilum,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_19,Fusarium sp FAN_2011a,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_22,Fusarium sp FAN_2011a,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_23,Fusarium sp FAN_2011a,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_24,Geosmithia sp U119A,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_3,Botryosphaeria rhodina,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_5,Fusarium sp FAN_2011a,1,DR_11_2,DR_11,DR,DR_late
+DR_11_2_7,Fusarium sp FAN_2011a,1,DR_11_2,DR_11,DR,DR_late
+DR_11_3_13,Xylaria longipes,1,DR_11_3,DR_11,DR,DR_late
+DR_11_3_18,Pestalotiopsis fici,1,DR_11_3,DR_11,DR,DR_late
+DR_11_3_21,Oidiodendron flavum,1,DR_11_3,DR_11,DR,DR_late
+DR_11_3_23,Xylaria cubensis,1,DR_11_3,DR_11,DR,DR_late
+DR_11_3_24,Xylaria cubensis,1,DR_11_3,DR_11,DR,DR_late
+DR_11_4_16,Xylaria cubensis,1,DR_11_4,DR_11,DR,DR_late
+DR_11_4_17,Geosmithia sp U119A,1,DR_11_4,DR_11,DR,DR_late
+DR_11_4_24,Coniolariella hispanica,1,DR_11_4,DR_11,DR,DR_late
+DR_11_4_3,Pseudovalsaria ferruginea,1,DR_11_4,DR_11,DR,DR_late
+DR_11_4_9,Diaporthe melonis var. brevistylospora,1,DR_11_4,DR_11,DR,DR_late
+DR_11_5_10,Botryosphaeria rhodina,1,DR_11_5,DR_11,DR,DR_late
+DR_11_5_11,Botryosphaeria rhodina,1,DR_11_5,DR_11,DR,DR_late
+DR_11_5_12,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_11_5,DR_11,DR,DR_late
+DR_11_5_16,Botryosphaeria rhodina,1,DR_11_5,DR_11,DR,DR_late
+DR_11_5_19,Geosmithia sp U119A,1,DR_11_5,DR_11,DR,DR_late
+DR_11_5_22,Botryosphaeria rhodina,1,DR_11_5,DR_11,DR,DR_late
+DR_11_5_4,Valsa mali var pyri,1,DR_11_5,DR_11,DR,DR_late
+DR_11_5_6,Botryosphaeria rhodina,1,DR_11_5,DR_11,DR,DR_late
+DR_11_5_9,Botryosphaeria rhodina,1,DR_11_5,DR_11,DR,DR_late
+DR_11_6_1,Xylaria cubensis,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_10,Pestalotiopsis funerea,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_11,Xylaria cubensis,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_16,Discosia sp 1 KT_2010,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_18,Geosmithia sp U119A,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_19,Fusarium sp FAN_2011a,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_2,Xylaria cubensis,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_20,Fusarium sp FAN_2011a,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_21,Cladobotryum cubitense,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_24,Colletotrichum coffeanum / Colletotrichum ignotum,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_4,Entonaema pallida,1,DR_11_6,DR_11,DR,DR_late
+DR_11_6_6,Endomelanconiopsis endophytica,1,DR_11_6,DR_11,DR,DR_late
+DR_11_7_10,Microdochium bolleyi,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_11,Cyphellophora guyanensis,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_12,Xylaria cubensis,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_13,Nemania abortiva,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_14,Thozetella falcata,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_16,Coniolariella hispanica,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_17,Pestalotiopsis yunnanensis,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_20,Daldinia loculata,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_23,Entonaema pallida,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_24,Dokmaia monthadangii,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_25,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_4,Daldinia loculata,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_5,Bionectria aff ochroleuca ROG_2010,1,DR_11_7,DR_11,DR,DR_late
+DR_11_7_9,Xylaria cubensis,1,DR_11_7,DR_11,DR,DR_late
+DR_11_8_14,Geosmithia sp U119A,1,DR_11_8,DR_11,DR,DR_late
+DR_11_8_15,Valsa ceratosperma / Valsa mali,1,DR_11_8,DR_11,DR,DR_late
+DR_11_8_19,Fusarium sp FAN_2011a,1,DR_11_8,DR_11,DR,DR_late
+DR_11_8_20,Fusarium sp FAN_2011a,1,DR_11_8,DR_11,DR,DR_late
+DR_11_8_22,Geosmithia sp U119A,1,DR_11_8,DR_11,DR,DR_late
+DR_11_8_23,Morchella sp Mes_9,1,DR_11_8,DR_11,DR,DR_late
+DR_11_8_3,Fusarium sp FAN_2011a,1,DR_11_8,DR_11,DR,DR_late
+DR_11_8_4,Coniolariella hispanica,1,DR_11_8,DR_11,DR,DR_late
+DR_11_8_8,Fusarium sp FAN_2011a,1,DR_11_8,DR_11,DR,DR_late
+DR_11_9_17,Discosia sp 7 KT_2010,1,DR_11_9,DR_11,DR,DR_late
+DR_11_9_20,Xylaria curta,1,DR_11_9,DR_11,DR,DR_late
+DR_11_9_21,Scolecobasidium terreum,1,DR_11_9,DR_11,DR,DR_late
+DR_11_9_3,Pestalotiopsis vismiae,1,DR_11_9,DR_11,DR,DR_late
+DR_11_9_6,Microdochium bolleyi,1,DR_11_9,DR_11,DR,DR_late
+DR_12_1_10,Nemania sp JJP_2009a,1,DR_12_1,DR_12,DR,DR_late
+DR_12_1_11,Anthostomella eucalyptorum,1,DR_12_1,DR_12,DR,DR_late
+DR_12_1_12,Diaporthe sp JZG_2013c,1,DR_12_1,DR_12,DR,DR_late
+DR_12_1_21,Xylaria apoda,1,DR_12_1,DR_12,DR,DR_late
+DR_12_1_23,Xylaria cubensis,1,DR_12_1,DR_12,DR,DR_late
+DR_12_10_1,Fusarium sp FAN_2011a,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_13,Phaeoacremonium globosum,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_18,Xylaria cubensis,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_19,Xylaria laevis,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_21,Nemania sp JJP_2009a,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_22,Pseudovalsaria ferruginea,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_23,Fusarium sp FAN_2011a,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_24,Xylaria cubensis,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_25,Entonaema pallida,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_5,Xylaria allantoidea,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_6,Xylaria longipes,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_8,Xylaria cubensis,1,DR_12_10,DR_12,DR,DR_late
+DR_12_10_9,Geosmithia sp U119A,1,DR_12_10,DR_12,DR,DR_late
+DR_12_2_10,Fusarium sp FAN_2011a,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_11,Xylaria cubensis,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_15,Fusarium sp FAN_2011a,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_17,Fusarium sp FAN_2011a,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_19,Fusarium sp FAN_2011a,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_2,Entonaema pallida,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_21,Stachybotrys kampalensis,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_22,Valsa ceratosperma / Valsa mali,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_23,Pestalotiopsis vismiae,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_24,Fusarium sp FAN_2011a,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_3,Kylindria peruamazonensis,1,DR_12_2,DR_12,DR,DR_late
+DR_12_2_9,Geosmithia sp U119A,1,DR_12_2,DR_12,DR,DR_late
+DR_12_3_18,Beauveria felina,1,DR_12_3,DR_12,DR,DR_late
+DR_12_3_24,Cyphellophora guyanensis,1,DR_12_3,DR_12,DR,DR_late
+DR_12_3_25,Preussia aemulans / Preussia fleischhakii,1,DR_12_3,DR_12,DR,DR_late
+DR_12_3_8,Beauveria felina,1,DR_12_3,DR_12,DR,DR_late
+DR_12_4_10,Coniolariella hispanica,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_12,Coniolariella hispanica,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_14,Coniolariella hispanica,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_17,Pseudovalsaria ferruginea,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_20,Colletotrichum tropicale,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_21,Entonaema pallida,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_24,Hypoxylon cercidicola,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_4,Xylaria cubensis,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_5,Entonaema pallida,1,DR_12_4,DR_12,DR,DR_late
+DR_12_4_9,Geosmithia sp U119A,1,DR_12_4,DR_12,DR,DR_late
+DR_12_5_1,Xylaria apoda,1,DR_12_5,DR_12,DR,DR_late
+DR_12_5_12,Diatrype flavovirens,1,DR_12_5,DR_12,DR,DR_late
+DR_12_5_18,Valsa ceratosperma / Valsa mali,1,DR_12_5,DR_12,DR,DR_late
+DR_12_6_10,Nemania plumbea,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_12,Fusarium sp FAN_2011a,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_15,Xylaria cubensis,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_16,Geosmithia sp U119A,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_18,Xylaria cubensis,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_19,Geosmithia sp U119A,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_2,Colletotrichum coffeanum / Colletotrichum ignotum,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_22,Muscodor albus,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_23,Muscodor albus,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_4,Xylaria longipes,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_6,Fusarium sp FAN_2011a,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_7,Nemania sp JJP_2009a,1,DR_12_6,DR_12,DR,DR_late
+DR_12_6_8,Fusarium sp FAN_2011a,1,DR_12_6,DR_12,DR,DR_late
+DR_12_7_1,Geosmithia sp U119A,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_11,Pseudovalsaria ferruginea,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_14,Entonaema pallida,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_16,Xylaria cubensis,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_18,Colletotrichum tropicale,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_19,Geosmithia sp U119A,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_21,Geosmithia sp U119A,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_25,Fusarium sp FAN_2011a,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_4,Fusarium sp FAN_2011a,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_6,Xylaria cubensis,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_7,Falcocladium sphaeropedunculatum,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_8,Pseudovalsaria ferruginea,1,DR_12_7,DR_12,DR,DR_late
+DR_12_7_9,Pestalotiopsis vismiae,1,DR_12_7,DR_12,DR,DR_late
+DR_12_8_10,Coniolariella hispanica,1,DR_12_8,DR_12,DR,DR_late
+DR_12_8_16,Geosmithia sp U119A,1,DR_12_8,DR_12,DR,DR_late
+DR_12_8_18,Geosmithia sp U119A,1,DR_12_8,DR_12,DR,DR_late
+DR_12_8_21,Fusarium sp FAN_2011a,1,DR_12_8,DR_12,DR,DR_late
+DR_12_8_22,Pseudovalsaria ferruginea,1,DR_12_8,DR_12,DR,DR_late
+DR_12_8_25,Entonaema pallida,1,DR_12_8,DR_12,DR,DR_late
+DR_12_8_5,Phaeoacremonium globosum,1,DR_12_8,DR_12,DR,DR_late
+DR_12_8_7,Diaporthe ambigua,1,DR_12_8,DR_12,DR,DR_late
+DR_12_9_1,Geosmithia sp U119A,1,DR_12_9,DR_12,DR,DR_late
+DR_12_9_11,Anthostomella eucalyptorum,1,DR_12_9,DR_12,DR,DR_late
+DR_12_9_14,Campylospora sp ML_2012,1,DR_12_9,DR_12,DR,DR_late
+DR_12_9_20,Diatrype flavovirens,1,DR_12_9,DR_12,DR,DR_late
+DR_12_9_25,Xylaria multiplex,1,DR_12_9,DR_12,DR,DR_late
+DR_12_9_3,Discosia sp 1 KT_2010,1,DR_12_9,DR_12,DR,DR_late
+DR_12_9_4,Xylaria cubensis,1,DR_12_9,DR_12,DR,DR_late
+DR_2_1_1,Seimatosporium botan,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_10,Nemania abortiva,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_11,Nemania abortiva,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_14,Xylaria adscendens,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_16,Xylaria curta,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_17,Nemania abortiva,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_18,Xylaria cubensis,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_2,Xylaria longipes,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_20,Xylaria allantoidea,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_22,Xylaria cubensis,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_24,Entonaema pallida,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_4,Xylaria multiplex,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_5,Xylaria cubensis,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_6,Xylaria adscendens,1,DR_2_1,DR_2,DR,DR_early
+DR_2_1_8,Daldinia concentrica,1,DR_2_1,DR_2,DR,DR_early
+DR_2_10_2,Xylaria liquidambaris / Xylaria persicaria,1,DR_2_10,DR_2,DR,DR_early
+DR_2_10_20,Xylaria liquidambaris / Xylaria persicaria,1,DR_2_10,DR_2,DR,DR_early
+DR_2_10_3,Xylaria cubensis,1,DR_2_10,DR_2,DR,DR_early
+DR_2_2_12,Bionectria aff ochroleuca ROG_2010 / Clonostachys rosea,1,DR_2_2,DR_2,DR,DR_early
+DR_2_2_15,Xylaria apoda,1,DR_2_2,DR_2,DR,DR_early
+DR_2_3_11,Anthostomella eucalyptorum,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_12,Xylaria cubensis,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_14,Anthostomella eucalyptorum,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_15,Entonaema pallida,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_17,Falcocladium multivesiculatum,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_2,Annulohypoxylon stygium,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_21,Xylaria cubensis,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_23,Hypoxylon cercidicola,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_3,Nemania abortiva,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_6,Xylaria feejeensis,1,DR_2_3,DR_2,DR,DR_early
+DR_2_3_8,Diatrypella vulgaris,1,DR_2_3,DR_2,DR,DR_early
+DR_2_4_14,Obolarina dryophila,1,DR_2_4,DR_2,DR,DR_early
+DR_2_4_18,Xylaria cubensis,1,DR_2_4,DR_2,DR,DR_early
+DR_2_4_2,Colletotrichum boninense,1,DR_2_4,DR_2,DR,DR_early
+DR_2_4_22,Xylaria allantoidea,1,DR_2_4,DR_2,DR,DR_early
+DR_2_4_3,Annulohypoxylon stygium,1,DR_2_4,DR_2,DR,DR_early
+DR_2_4_6,Xylaria longipes,1,DR_2_4,DR_2,DR,DR_early
+DR_2_4_9,Xylaria bambusicola,1,DR_2_4,DR_2,DR,DR_early
+DR_2_5_10,Xylaria adscendens,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_12,Xylaria cubensis,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_13,Entonaema pallida,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_15,Xylaria cubensis,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_18,Colletotrichum spinaciae,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_19,Xylaria cubensis,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_22,Anthostomella eucalyptorum,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_24,Xylaria cubensis,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_25,Xylaria cubensis,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_4,Mycosphaerella holualoana / Mycosphaerella konae,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_5,Xylaria bambusicola,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_6,Xylaria cubensis,1,DR_2_5,DR_2,DR,DR_early
+DR_2_5_8,Anthostomella eucalyptorum,1,DR_2_5,DR_2,DR,DR_early
+DR_2_6_19,Xylaria curta,1,DR_2_6,DR_2,DR,DR_early
+DR_2_6_2,Annulohypoxylon stygium,1,DR_2_6,DR_2,DR,DR_early
+DR_2_6_25,Entonaema pallida,1,DR_2_6,DR_2,DR,DR_early
+DR_2_6_5,Hypoxylon monticulosum,1,DR_2_6,DR_2,DR,DR_early
+DR_2_6_6,Xylaria multiplex,1,DR_2_6,DR_2,DR,DR_early
+DR_2_6_8,Anthostomella eucalyptorum,1,DR_2_6,DR_2,DR,DR_early
+DR_2_6_9,Xylaria cubensis,1,DR_2_6,DR_2,DR,DR_early
+DR_2_7_13,Chaetomium interruptum,1,DR_2_7,DR_2,DR,DR_early
+DR_2_7_15,Anthostomella eucalyptorum,1,DR_2_7,DR_2,DR,DR_early
+DR_2_7_16,Xylaria liquidambaris / Xylaria persicaria,1,DR_2_7,DR_2,DR,DR_early
+DR_2_7_24,Xylaria multiplex,1,DR_2_7,DR_2,DR,DR_early
+DR_2_7_25,Xylaria ianthinovelutina,1,DR_2_7,DR_2,DR,DR_early
+DR_2_7_5,Pseudovalsaria ferruginea,1,DR_2_7,DR_2,DR,DR_early
+DR_2_7_7,Bionectria aff ochroleuca ROG_2010 / Clonostachys rosea,1,DR_2_7,DR_2,DR,DR_early
+DR_2_8_15,Anthostomella eucalyptorum,1,DR_2_8,DR_2,DR,DR_early
+DR_2_9_10,Daldinia loculata,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_11,Xylaria curta,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_12,Xylaria cubensis,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_13,Chaetomium cupreum,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_14,Xylaria curta,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_15,Annulohypoxylon stygium,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_16,Phyllosticta citriasiana,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_17,Xylaria cubensis,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_18,Entonaema pallida,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_19,Annulohypoxylon stygium,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_20,Discosia sp 2 KT_2010,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_21,Annulohypoxylon stygium,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_25,Guignardia mangiferae,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_4,Falcocladium multivesiculatum,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_5,Annulohypoxylon stygium,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_7,Colletotrichum ignotum,1,DR_2_9,DR_2,DR,DR_early
+DR_2_9_9,Colletotrichum ignotum,1,DR_2_9,DR_2,DR,DR_early
+DR_3_1_6,Xylaria cubensis,1,DR_3_1,DR_3,DR,DR_early
+DR_3_10_1,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_10,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_11,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_12,Pestalotiopsis theae,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_13,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_14,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_15,Bionectria samuelsii,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_19,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_20,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_21,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_22,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_23,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_24,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_25,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_4,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_5,Discosia sp 1 KT_2010,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_6,Seimatosporium eucalypti,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_7,Seimatosporium eucalypti,1,DR_3_10,DR_3,DR,DR_early
+DR_3_10_8,Colletotrichum ignotum,1,DR_3_10,DR_3,DR,DR_early
+DR_3_2_1,Seimatosporium botan,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_10,Seimatosporium discosioides,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_12,Guignardia mangiferae,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_14,Xylaria allantoidea,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_15,Discosia sp 1 KT_2010,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_17,Xylaria cubensis,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_18,Nemania abortiva,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_19,Nemania abortiva,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_1b,Seimatosporium botan,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_2,Xylaria ianthinovelutina,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_20,Xylaria cubensis,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_21,Annulohypoxylon stygium,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_23,Glomerella cingulata,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_25,Guignardia mangiferae,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_4,Annulohypoxylon stygium,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_5,Coniolariella hispanica,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_6,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_7,Xylaria cubensis,1,DR_3_2,DR_3,DR,DR_early
+DR_3_2_9,Xylaria cubensis,1,DR_3_2,DR_3,DR,DR_early
+DR_3_3_1,Discosia sp 7 KT_2010,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_10,Diaporthe sp JZG_2013c,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_12,Diaporthe sp JZG_2013c,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_14,Discosia sp 7 KT_2010,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_15,Lasiodiplodia theobromae,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_16,Hypoxylon monticulosum,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_17,Hypoxylon monticulosum,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_18,Diaporthe sp JZG_2013l,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_19,Guignardia citricarpa,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_2,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_20,Diaporthe sp JZG_2013c,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_21,Botryosphaeria rhodina,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_5,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_6,Phomopsis sp 10 JM_2013,1,DR_3_3,DR_3,DR,DR_early
+DR_3_3_7,Anthostomella eucalyptorum,1,DR_3_3,DR_3,DR,DR_early
+DR_3_4_1,Colletotrichum ignotum,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_10,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_11,Seimatosporium discosioides,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_12,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_14,Ophiocordyceps prolifica,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_15,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_17,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_18,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_19,Seimatosporium eucalypti,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_2,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_20,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_22,Pestalotiopsis sp EN 10,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_23,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_24,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_4,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_5,Seimatosporium eucalypti,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_6,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_7,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_4_9,Discosia sp 1 KT_2010,1,DR_3_4,DR_3,DR,DR_early
+DR_3_5_1,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_10,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_13,Xylaria cubensis,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_14,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_15,Discosia sp 1 KT_2010,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_16,Lasiodiplodia venezuelensis,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_17,Xylaria cubensis,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_20,Colletotrichum ignotum,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_23,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_24,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_25,Discosia sp 1 KT_2010,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_3,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_4,Botryosphaeria rhodina,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_6,Cordyceps nipponica,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_7,Xylaria multiplex,1,DR_3_5,DR_3,DR,DR_early
+DR_3_5_8,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_5,DR_3,DR,DR_early
+DR_3_6_1,Discosia sp 1 KT_2010,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_10,Seimatosporium botan,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_12,Annulohypoxylon stygium,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_13,Xylaria cubensis,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_15,Seimatosporium eucalypti,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_16,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_18,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_19,Pestalotiopsis funerea,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_2,Seimatosporium eucalypti,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_20,Pestalotiopsis sp EN 10,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_21,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_22,Seimatosporium eucalypti,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_23,Diaporthe sp JZG_2013l,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_24,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_3,Pestalotiopsis sp EN 10,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_4,Discosia sp 1 KT_2010,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_5,Discosia sp 1 KT_2010,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_6,Seimatosporium eucalypti,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_7,Pseudovalsaria ferruginea,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_8,Pestalotiopsis sp EN 10,1,DR_3_6,DR_3,DR,DR_early
+DR_3_6_9,Pestalotiopsis sp EN 10,1,DR_3_6,DR_3,DR,DR_early
+DR_3_7_1,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_11,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_12,Diaporthe melonis var. brevistylospora,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_14,Colletotrichum ignotum,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_15,Diaporthe sp FLS_2010,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_16,Pestalotiopsis funerea,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_17,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_20,Diaporthe sp JZG_2013c,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_21,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_23,Diaporthe sp JZG_2013c,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_24,Diaporthe sp 12 PRJ_2013,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_25,Diaporthe sp JZG_2013c,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_3,Phomopsis columnaris,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_4,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_5,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_8,Diaporthe sp 12 PRJ_2013,1,DR_3_7,DR_3,DR,DR_early
+DR_3_7_9,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_7,DR_3,DR,DR_early
+DR_3_8_10,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_12,Pestalotiopsis yunnanensis,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_14,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_16,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_17,Pestalotiopsis funerea,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_18,Pestalotiopsis theae,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_19,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_20,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_21,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_22,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_24,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_3,Diaporthe melonis var. brevistylospora,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_4,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_5,Discosia sp 2 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_8_9,Discosia sp 1 KT_2010,1,DR_3_8,DR_3,DR,DR_early
+DR_3_9_10,Lasiodiplodia venezuelensis,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_11,Robillarda sessilis,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_12,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_15,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_16,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_17,Robillarda sessilis,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_18,Entonaema pallida,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_19,Lasiodiplodia venezuelensis,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_2,Thozetella falcata,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_20,Pestalotiopsis funerea,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_21,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_22,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_23,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_4,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_5,Pestalotiopsis theae,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_6,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_7,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_3_9_8,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_3_9,DR_3,DR,DR_early
+DR_4_1_13,Xylaria bambusicola,1,DR_4_1,DR_4,DR,DR_early
+DR_4_1_22,Xylaria liquidambaris / Xylaria persicaria,1,DR_4_1,DR_4,DR,DR_early
+DR_4_10_11,Pestalotiopsis yunnanensis,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_12,Cladosporium halotolerans,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_13,Microdochium bolleyi,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_14,Diaporthe sp JZG_2013c,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_15,Microdochium bolleyi,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_16,Discosia sp 7 KT_2010,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_17,Pestalotiopsis yunnanensis,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_18,Barriopsis iraniana,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_2,Heliscus submersus,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_20,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_21,Discosia sp 1 KT_2010,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_22,Discosia sp 1 KT_2010,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_25,Pestalotiopsis sp EN 10,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_3,Colletotrichum ignotum,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_4,Bionectria samuelsii,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_5,Microdochium bolleyi,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_6,Cladonia magyarica,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_8,Microdochium bolleyi,1,DR_4_10,DR_4,DR,DR_early
+DR_4_10_9,Thozetella falcata,1,DR_4_10,DR_4,DR,DR_early
+DR_4_2_1,Discosia sp 1 KT_2010,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_10,Discosia sp 1 KT_2010,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_11,Pestalotiopsis funerea,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_12,Discosia sp 1 KT_2010,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_13,Pestalotiopsis funerea,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_14,Pestalotiopsis funerea,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_19,Discosia sp 1 KT_2010,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_2,Seimatosporium botan,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_20,Seimatosporium eucalypti,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_3,Discosia sp 1 KT_2010,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_4,Seimatosporium eucalypti,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_5,Robillarda sessilis,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_6,Discosia sp 1 KT_2010,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_7,Pestalotiopsis funerea,1,DR_4_2,DR_4,DR,DR_early
+DR_4_2_8,Seimatosporium eucalypti,1,DR_4_2,DR_4,DR,DR_early
+DR_4_3_1,Discosia sp 1 KT_2010,1,DR_4_3,DR_4,DR,DR_early
+DR_4_3_12,Discosia sp 7 KT_2010,1,DR_4_3,DR_4,DR,DR_early
+DR_4_3_22,Diaporthe phaseolorum,1,DR_4_3,DR_4,DR,DR_early
+DR_4_3_3,Diaporthe sp JZG_2013l,1,DR_4_3,DR_4,DR,DR_early
+DR_4_3_6,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_3,DR_4,DR,DR_early
+DR_4_3_8,Lasiodiplodia theobromae,1,DR_4_3,DR_4,DR,DR_early
+DR_4_3_9,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_3,DR_4,DR,DR_early
+DR_4_4_1,Dictyochaeta simplex,1,DR_4_4,DR_4,DR,DR_early
+DR_4_4_11,Seimatosporium discosioides,1,DR_4_4,DR_4,DR,DR_early
+DR_4_4_13,Discosia sp 1 KT_2010,1,DR_4_4,DR_4,DR,DR_early
+DR_4_4_15,Annulohypoxylon stygium,1,DR_4_4,DR_4,DR,DR_early
+DR_4_4_2,Colletotrichum ignotum,1,DR_4_4,DR_4,DR,DR_early
+DR_4_4_20,Diaporthe sp 12 PRJ_2013,1,DR_4_4,DR_4,DR,DR_early
+DR_4_4_23,Xylaria ianthinovelutina,1,DR_4_4,DR_4,DR,DR_early
+DR_4_4_4,Colletotrichum ignotum,1,DR_4_4,DR_4,DR,DR_early
+DR_4_5_1,Lasiodiplodia venezuelensis,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_12,Colletotrichum ignotum,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_13,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_15,Pestalotiopsis disseminata / Pestalotiopsis flavidula,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_16,Lasiodiplodia theobromae,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_17,Botryosphaeria rhodina,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_2,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_20,Lasiodiplodia theobromae,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_21,Lasiodiplodia venezuelensis,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_22,Lasiodiplodia theobromae,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_24,Lasiodiplodia venezuelensis,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_4,Lasiodiplodia theobromae,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_5,Pestalotiopsis funerea,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_6,Lasiodiplodia venezuelensis,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_7,Botryosphaeria rhodina,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_8,Lasiodiplodia venezuelensis,1,DR_4_5,DR_4,DR,DR_early
+DR_4_5_9,Discosia sp 7 KT_2010,1,DR_4_5,DR_4,DR,DR_early
+DR_4_6_1,Colletotrichum ignotum,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_10,Discosia sp 7 KT_2010,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_11,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_12,Colletotrichum ignotum,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_13,Colletotrichum ignotum,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_15,Colletotrichum ignotum,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_16,Pestalotiopsis sp EN 10,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_18,Xylaria allantoidea,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_19,Daldinia loculata,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_2,Seimatosporium discosioides,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_20,Xylaria cubensis,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_21,Colletotrichum ignotum,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_23,Colletotrichum ignotum,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_24,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_25,Daldinia loculata,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_5,Colletotrichum ignotum,1,DR_4_6,DR_4,DR,DR_early
+DR_4_6_9,Pestalotiopsis yunnanensis,1,DR_4_6,DR_4,DR,DR_early
+DR_4_7_1,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_11,Diaporthe sp 12 PRJ_2013,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_13,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_16,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_19,Diaporthe sp 12 PRJ_2013,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_2,Colletotrichum ignotum,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_21,Diaporthe sp JZG_2013c,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_3,Diaporthe sp JZG_2013c,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_4,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_5,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_7,DR_4,DR,DR_early
+DR_4_7_8,Xylaria adscendens,1,DR_4_7,DR_4,DR,DR_early
+DR_4_8_10,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_13,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_14,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_17,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_20,Discosia sp 7 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_21,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_22,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_23,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_24,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_25,Thozetella falcata,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_3,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_4,Seimatosporium discosioides,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_8,Pseudeurotium bakeri,1,DR_4_8,DR_4,DR,DR_early
+DR_4_8_9,Discosia sp 1 KT_2010,1,DR_4_8,DR_4,DR,DR_early
+DR_4_9_1,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_10,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_11,Lasiodiplodia venezuelensis,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_15,Lasiodiplodia venezuelensis,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_18,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_20,Lasiodiplodia venezuelensis,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_22,Lasiodiplodia venezuelensis,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_23,Lasiodiplodia venezuelensis,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_24,Lasiodiplodia venezuelensis,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_4,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_4_9,DR_4,DR,DR_early
+DR_4_9_9,Lasiodiplodia venezuelensis,1,DR_4_9,DR_4,DR,DR_early
+DR_5_1_13,Xylaria laevis,1,DR_5_1,DR_5,DR,DR_early
+DR_5_1_18,Xylaria cubensis,1,DR_5_1,DR_5,DR,DR_early
+DR_5_1_22,Xylaria sp SAB_2009a,1,DR_5_1,DR_5,DR,DR_early
+DR_5_1_4,Nectria dematiosa / Nectria nigrescens,1,DR_5_1,DR_5,DR,DR_early
+DR_5_10_11,Robillarda sessilis,1,DR_5_10,DR_5,DR,DR_early
+DR_5_10_22,Thozetella falcata,1,DR_5_10,DR_5,DR,DR_early
+DR_5_10_7,Discosia sp 1 KT_2010,1,DR_5_10,DR_5,DR,DR_early
+DR_5_2_1,Robillarda sessilis,1,DR_5_2,DR_5,DR,DR_early
+DR_5_2_17,Colletotrichum ignotum,1,DR_5_2,DR_5,DR,DR_early
+DR_5_2_18,Lasiodiplodia venezuelensis,1,DR_5_2,DR_5,DR,DR_early
+DR_5_2_22,Colletotrichum ignotum,1,DR_5_2,DR_5,DR,DR_early
+DR_5_2_9,Xylaria laevis,1,DR_5_2,DR_5,DR,DR_early
+DR_5_3_10,Diaporthe melonis var. brevistylospora,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_11,Lasiodiplodia theobromae,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_12,Lasiodiplodia theobromae,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_16,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_17,Diaporthe melonis var. brevistylospora,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_19,Diaporthe phaseolorum,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_2,Phaeoacremonium fuscum,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_20,Phaeoacremonium fuscum,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_21,Lasiodiplodia theobromae,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_22,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_24,Discosia sp 7 KT_2010,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_25,Massarina igniaria,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_3,Xylaria cubensis,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_4,Diaporthe melonis var. brevistylospora,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_4b,Diaporthe melonis var. brevistylospora,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_5,Diaporthe melonis var. brevistylospora,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_7,Diaporthe melonis var. brevistylospora,1,DR_5_3,DR_5,DR,DR_early
+DR_5_3_9,Diaporthe phaseolorum,1,DR_5_3,DR_5,DR,DR_early
+DR_5_4_10,Seimatosporium eucalypti,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_11,Discosia sp 1 KT_2010,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_12,Pestalotiopsis yunnanensis,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_15,Discosia sp 1 KT_2010,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_16,Seimatosporium eucalypti,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_21,Discosia sp 1 KT_2010,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_22,Discosia sp 1 KT_2010,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_24,Seimatosporium eucalypti,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_3,Pestalotiopsis yunnanensis,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_4,Pestalotiopsis yunnanensis,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_5,Xylaria cubensis,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_6,Discosia sp 1 KT_2010,1,DR_5_4,DR_5,DR,DR_early
+DR_5_4_7,Pestalotiopsis sp EN 10,1,DR_5_4,DR_5,DR,DR_early
+DR_5_5_10,Lasiodiplodia venezuelensis,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_11,Lasiodiplodia venezuelensis,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_14,Xylaria cubensis,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_15,Lasiodiplodia theobromae,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_19,Lasiodiplodia venezuelensis,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_22,Lasiodiplodia venezuelensis,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_24,Botryosphaeria rhodina,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_25,Lasiodiplodia venezuelensis,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_3,Xylaria adscendens,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_4,Lasiodiplodia venezuelensis,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_5,Lasiodiplodia venezuelensis,1,DR_5_5,DR_5,DR,DR_early
+DR_5_5_7,Diaporthe sp 12 PRJ_2013,1,DR_5_5,DR_5,DR,DR_early
+DR_5_6_1,Xylaria berteri,1,DR_5_6,DR_5,DR,DR_early
+DR_5_6_13,Xylaria cubensis,1,DR_5_6,DR_5,DR,DR_early
+DR_5_6_16,Robillarda sessilis,1,DR_5_6,DR_5,DR,DR_early
+DR_5_6_17,Daldinia loculata,1,DR_5_6,DR_5,DR,DR_early
+DR_5_6_21,Xylaria cubensis,1,DR_5_6,DR_5,DR,DR_early
+DR_5_6_3,Xylaria cubensis,1,DR_5_6,DR_5,DR,DR_early
+DR_5_6_6,Xylaria cubensis,1,DR_5_6,DR_5,DR,DR_early
+DR_5_6_8,Xylaria cubensis,1,DR_5_6,DR_5,DR,DR_early
+DR_5_7_10,Diaporthe sp JZG_2013c,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_13,Obolarina dryophila,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_15,Robillarda sessilis,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_16,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_17,Diaporthe sp JZG_2013c,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_2,Diaporthe sp JZG_2013c,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_20,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_21,Pestalotiopsis funerea,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_22,Colletotrichum ignotum,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_23,Xylaria cubensis,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_4,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_5,Phomopsis sp 2 JRUT_2013,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_7,Robillarda sessilis,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_8,Diaporthe sp FLS_2010,1,DR_5_7,DR_5,DR,DR_early
+DR_5_7_9,Scytalidium thermophilum,1,DR_5_7,DR_5,DR,DR_early
+DR_5_8_15,Xylaria adscendens,1,DR_5_8,DR_5,DR,DR_early
+DR_5_8_24,Xylaria cubensis,1,DR_5_8,DR_5,DR,DR_early
+DR_5_8_25,Anthostomella eucalyptorum,1,DR_5_8,DR_5,DR,DR_early
+DR_5_8_7,Discosia sp 1 KT_2010,1,DR_5_8,DR_5,DR,DR_early
+DR_5_8_8,Discosia sp 1 KT_2010,1,DR_5_8,DR_5,DR,DR_early
+DR_5_9_10,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_11,Diaporthe sp JZG_2013c,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_12,Diaporthe sp JZG_2013l,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_14,Diaporthe sp JZG_2013l,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_15,Phomopsis sp 2 JRUT_2013,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_19,Diaporthe melonis var. brevistylospora,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_2,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_21,Diaporthe sp JZG_2013l,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_22,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_23,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_25,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_3,Diaporthe sp JZG_2013l,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_4,Diaporthe sp JZG_2013c,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_5,Phomopsis sp 2 JRUT_2013,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_6,Diaporthe sp JZG_2013c,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_7,Phomopsis sp 2 JRUT_2013,1,DR_5_9,DR_5,DR,DR_early
+DR_5_9_9,Pseudofusicoccum sp MT_2008b,1,DR_5_9,DR_5,DR,DR_early
+DR_6_1_12,Diaporthe phaseolorum,1,DR_6_1,DR_6,DR,DR_late
+DR_6_1_16,Phomopsis sp 1 JRUT_2013,1,DR_6_1,DR_6,DR,DR_late
+DR_6_1_17,Xylaria adscendens,1,DR_6_1,DR_6,DR,DR_late
+DR_6_1_22,Discosia sp 7 KT_2010,1,DR_6_1,DR_6,DR,DR_late
+DR_6_1_5,Diaporthe phaseolorum,1,DR_6_1,DR_6,DR,DR_late
+DR_6_10_1,Discosia sp 1 KT_2010,1,DR_6_10,DR_6,DR,DR_late
+DR_6_10_15,Discosia sp 1 KT_2010,1,DR_6_10,DR_6,DR,DR_late
+DR_6_10_17,Discosia sp 1 KT_2010,1,DR_6_10,DR_6,DR,DR_late
+DR_6_10_20,Discosia sp 1 KT_2010,1,DR_6_10,DR_6,DR,DR_late
+DR_6_10_6,Discosia sp 1 KT_2010,1,DR_6_10,DR_6,DR,DR_late
+DR_6_10_8,Discosia sp 1 KT_2010,1,DR_6_10,DR_6,DR,DR_late
+DR_6_10_9,Discosia sp 1 KT_2010,1,DR_6_10,DR_6,DR,DR_late
+DR_6_2_1,Cladosporium halotolerans,1,DR_6_2,DR_6,DR,DR_late
+DR_6_2_4,Seimatosporium botan,1,DR_6_2,DR_6,DR,DR_late
+DR_6_2_8,Microdochium bolleyi,1,DR_6_2,DR_6,DR,DR_late
+DR_6_2_9,Penicillium digitatum,1,DR_6_2,DR_6,DR,DR_late
+DR_6_3_15,Guignardia mangiferae,1,DR_6_3,DR_6,DR,DR_late
+DR_6_3_5,Diaporthe sp 12 PRJ_2013,1,DR_6_3,DR_6,DR,DR_late
+DR_6_4_1,Pestalotiopsis yunnanensis,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_10,Discosia sp 2 KT_2010,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_12,Colletotrichum spinaciae,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_13,Discosia sp 1 KT_2010,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_19,Discosia sp 1 KT_2010,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_2,Discosia sp 1 KT_2010,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_3,Discosia sp 1 KT_2010,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_5,Discosia sp 1 KT_2010,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_7,Pestalotiopsis funerea,1,DR_6_4,DR_6,DR,DR_late
+DR_6_4_8,Discosia sp 1 KT_2010,1,DR_6_4,DR_6,DR,DR_late
+DR_6_5_11,Guignardia mangiferae,1,DR_6_5,DR_6,DR,DR_late
+DR_6_5_24,Diaporthe phaseolorum,1,DR_6_5,DR_6,DR,DR_late
+DR_6_5_5,Xylaria cubensis,1,DR_6_5,DR_6,DR,DR_late
+DR_6_6_1,Colletotrichum coffeanum / Colletotrichum ignotum,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_10,Xylaria cubensis,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_11,Discosia sp 1 KT_2010,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_13,Pestalotiopsis funerea,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_14,Xylaria cubensis,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_15,Xylaria cubensis,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_20,Xylaria cubensis,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_21,Discosia sp 1 KT_2010,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_22,Discosia sp 1 KT_2010,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_23,Xylaria cubensis,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_24,Discosia sp 1 KT_2010,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_3,Discosia sp 1 KT_2010,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_4,Seimatosporium eucalypti,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_5,Seimatosporium eucalypti,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_7,Pestalotiopsis funerea,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_8,Discosia sp 1 KT_2010,1,DR_6_6,DR_6,DR,DR_late
+DR_6_6_9,Pestalotiopsis funerea,1,DR_6_6,DR_6,DR,DR_late
+DR_6_7_1,Botryosphaeria rhodina,1,DR_6_7,DR_6,DR,DR_late
+DR_6_8_10,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_11,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_12,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_14,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_17,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_18,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_19,Discosia sp 7 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_20,Seimatosporium botan,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_22,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_23,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_24,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_3,Pestalotiopsis yunnanensis,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_4,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_5,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_6,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_8,Discosia sp 1 KT_2010,1,DR_6_8,DR_6,DR,DR_late
+DR_6_8_9,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_6_8,DR_6,DR,DR_late
+DR_7_1_24,Pestalotiopsis flavidula / Pestalotiopsis microspora,1,DR_7_1,DR_7,DR,DR_late
+DR_7_1_25,Discosia sp 7 KT_2010,1,DR_7_1,DR_7,DR,DR_late
+DR_7_1_3,Pestalotiopsis flavidula / Pestalotiopsis microspora,1,DR_7_1,DR_7,DR,DR_late
+DR_7_1_4,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_7_1,DR_7,DR,DR_late
+DR_7_1_8,Xylaria longipes,1,DR_7_1,DR_7,DR,DR_late
+DR_7_10_1,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_10,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_12,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_15,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_2,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_21,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_25,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_25b,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_4,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_5,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_8,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_10_9,Discosia sp 1 KT_2010,1,DR_7_10,DR_7,DR,DR_late
+DR_7_2_10,Robillarda sessilis,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_11,Lasiodiplodia iraniensis / Lasiodiplodia pseudotheobromae,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_12,Rosellinia buxi,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_13,Discosia sp 7 KT_2010,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_14,Robillarda sessilis,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_16,Lasiodiplodia iraniensis / Lasiodiplodia pseudotheobromae,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_18,Lasiodiplodia iraniensis / Lasiodiplodia pseudotheobromae,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_21,Pestalotiopsis yunnanensis,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_24,Lasiodiplodia iraniensis / Lasiodiplodia pseudotheobromae,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_25,Lasiodiplodia iraniensis / Lasiodiplodia pseudotheobromae,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_3,Lasiodiplodia iraniensis / Lasiodiplodia pseudotheobromae,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_5,Microdochium bolleyi,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_6,Discosia sp 1 KT_2010,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_7,Rosellinia buxi,1,DR_7_2,DR_7,DR,DR_late
+DR_7_2_8,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_7_2,DR_7,DR,DR_late
+DR_7_3_11,Pestalotiopsis maculiformans / Pestalotiopsis yunnanensis,1,DR_7_3,DR_7,DR,DR_late
+DR_7_3_16,Nemania abortiva,1,DR_7_3,DR_7,DR,DR_late
+DR_7_3_17,Xylaria longipes,1,DR_7_3,DR_7,DR,DR_late
+DR_7_3_3,Diaporthe sp JZG_2013l,1,DR_7_3,DR_7,DR,DR_late
+DR_7_3_7,Anthostomella eucalyptorum,1,DR_7_3,DR_7,DR,DR_late
+DR_7_4_1,Microdochium bolleyi,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_10,Discosia sp 2 KT_2010,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_11,Microdochium bolleyi,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_15,Thozetella falcata,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_17,Guignardia mangiferae,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_19,Pleurostoma ootheca,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_21,Pestalotiopsis yunnanensis,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_22,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_25,Seimatosporium botan,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_3,Podospora myriaspora,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_4,Microdochium bolleyi,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_6,Dictyochaeta simplex,1,DR_7_4,DR_7,DR,DR_late
+DR_7_4_8,Bionectria samuelsii,1,DR_7_4,DR_7,DR,DR_late
+DR_7_5_14,Diaporthe sp JZG_2013c,1,DR_7_5,DR_7,DR,DR_late
+DR_7_5_15,Guignardia mangiferae,1,DR_7_5,DR_7,DR,DR_late
+DR_7_5_19,Botryosphaeria rhodina,1,DR_7_5,DR_7,DR,DR_late
+DR_7_5_21,Guignardia mangiferae,1,DR_7_5,DR_7,DR,DR_late
+DR_7_5_22,Guignardia mangiferae,1,DR_7_5,DR_7,DR,DR_late
+DR_7_5_4,Diaporthe sp JZG_2013c,1,DR_7_5,DR_7,DR,DR_late
+DR_7_5_5,Xylaria adscendens,1,DR_7_5,DR_7,DR,DR_late
+DR_7_5_7,Lasiodiplodia iraniensis / Lasiodiplodia pseudotheobromae,1,DR_7_5,DR_7,DR,DR_late
+DR_7_5_9,Lasiodiplodia venezuelensis,1,DR_7_5,DR_7,DR,DR_late
+DR_7_6_1,Discosia sp 1 KT_2010,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_11,Discosia sp 2 KT_2010,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_12,Pestalotiopsis funerea,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_19,Pestalotiopsis funerea,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_2,Pestalotiopsis funerea,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_20,Microdochium bolleyi,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_21,Fusarium polyphialidicum,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_22,Xylaria cubensis,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_23,Xylaria cubensis,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_24,Volutella lini,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_25,Discosia sp 7 KT_2010,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_4,Cyphellophora guyanensis,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_7,Bionectria samuelsii,1,DR_7_6,DR_7,DR,DR_late
+DR_7_6_9,Xylaria cubensis,1,DR_7_6,DR_7,DR,DR_late
+DR_7_7_10,Pestalotiopsis vismiae,1,DR_7_7,DR_7,DR,DR_late
+DR_7_7_12,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_7_7,DR_7,DR,DR_late
+DR_7_7_14,Pestalotiopsis funerea,1,DR_7_7,DR_7,DR,DR_late
+DR_7_7_15,Microdochium bolleyi,1,DR_7_7,DR_7,DR,DR_late
+DR_7_7_2,Lasiodiplodia venezuelensis,1,DR_7_7,DR_7,DR,DR_late
+DR_7_7_24,Pestalotiopsis vismiae,1,DR_7_7,DR_7,DR,DR_late
+DR_7_7_5,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_7_7,DR_7,DR,DR_late
+DR_7_7_7,Xylaria allantoidea,1,DR_7_7,DR_7,DR,DR_late
+DR_7_8_1,Pestalotiopsis funerea,1,DR_7_8,DR_7,DR,DR_late
+DR_7_8_13,Microdochium bolleyi,1,DR_7_8,DR_7,DR,DR_late
+DR_7_8_24,Pestalotiopsis funerea,1,DR_7_8,DR_7,DR,DR_late
+DR_7_9_1,Diaporthe sp JZG_2013c,1,DR_7_9,DR_7,DR,DR_late
+DR_7_9_6,Beauveria felina,1,DR_7_9,DR_7,DR,DR_late
+DR_7_9_8,Pestalotiopsis aquatica / Pestalotiopsis crassiuscula,1,DR_7_9,DR_7,DR,DR_late
+DR_8_1_2,Xylaria liquidambaris / Xylaria persicaria,1,DR_8_1,DR_8,DR,DR_late
+DR_8_1_24,Xylaria allantoidea,1,DR_8_1,DR_8,DR,DR_late
+DR_8_1_5,Diaporthe sp JZG_2013c,1,DR_8_1,DR_8,DR,DR_late
+DR_8_10_13,Eutypa lata,1,DR_8_10,DR_8,DR,DR_late
+DR_8_10_14,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_8_10,DR_8,DR,DR_late
+DR_8_2_1,Microdochium bolleyi,1,DR_8_2,DR_8,DR,DR_late
+DR_8_2_14,Microdochium bolleyi,1,DR_8_2,DR_8,DR,DR_late
+DR_8_2_18,Microdochium bolleyi,1,DR_8_2,DR_8,DR,DR_late
+DR_8_2_19,Geosmithia sp U119A,1,DR_8_2,DR_8,DR,DR_late
+DR_8_2_2,Cyphellophora guyanensis,1,DR_8_2,DR_8,DR,DR_late
+DR_8_2_3,Cyphellophora guyanensis,1,DR_8_2,DR_8,DR,DR_late
+DR_8_2_4,Cyphellophora guyanensis,1,DR_8_2,DR_8,DR,DR_late
+DR_8_2_5,Discosia sp 7 KT_2010,1,DR_8_2,DR_8,DR,DR_late
+DR_8_3_17,Colletotrichum spinaciae,1,DR_8_3,DR_8,DR,DR_late
+DR_8_3_4,Xylaria apoda,1,DR_8_3,DR_8,DR,DR_late
+DR_8_4_11,Spadicoides bina,1,DR_8_4,DR_8,DR,DR_late
+DR_8_5_13,Cladosporium colocasiae,1,DR_8_5,DR_8,DR,DR_late
+DR_8_5_14,Cladosporium colocasiae,1,DR_8_5,DR_8,DR,DR_late
+DR_8_5_15,Cladosporium colocasiae,1,DR_8_5,DR_8,DR,DR_late
+DR_8_5_16,Cladosporium colocasiae,1,DR_8_5,DR_8,DR,DR_late
+DR_8_5_17,Cladosporium colocasiae,1,DR_8_5,DR_8,DR,DR_late
+DR_8_5_19,Cladosporium colocasiae,1,DR_8_5,DR_8,DR,DR_late
+DR_8_5_21,Cladosporium colocasiae,1,DR_8_5,DR_8,DR,DR_late
+DR_8_5_22,Cladosporium colocasiae,1,DR_8_5,DR_8,DR,DR_late
+DR_8_5_25,Nemania abortiva,1,DR_8_5,DR_8,DR,DR_late
+DR_8_6_16,Xylaria cubensis,1,DR_8_6,DR_8,DR,DR_late
+DR_8_6_19,Nemania sp JJP_2009a,1,DR_8_6,DR_8,DR,DR_late
+DR_8_6_21,Discosia sp 7 KT_2010,1,DR_8_6,DR_8,DR,DR_late
+DR_8_6_5,Discosia sp 1 KT_2010,1,DR_8_6,DR_8,DR,DR_late
+DR_8_7_15,Eutypa lata,1,DR_8_7,DR_8,DR,DR_late
+DR_8_7_4,Xylaria longipes,1,DR_8_7,DR_8,DR,DR_late
+DR_8_8_11,Xylaria bambusicola,1,DR_8_8,DR_8,DR,DR_late
+DR_8_8_13,Entonaema pallida,1,DR_8_8,DR_8,DR,DR_late
+DR_8_8_16,Entonaema pallida,1,DR_8_8,DR_8,DR,DR_late
+DR_9_1_17,Diaporthe sp JZG_2013c,1,DR_9_1,DR_9,DR,DR_late
+DR_9_1_19,Lasiodiplodia venezuelensis,1,DR_9_1,DR_9,DR,DR_late
+DR_9_1_20,Diaporthe sp JZG_2013c,1,DR_9_1,DR_9,DR,DR_late
+DR_9_1_3,Diaporthe sp JZG_2013c,1,DR_9_1,DR_9,DR,DR_late
+DR_9_1_6,Diaporthe sp JZG_2013c,1,DR_9_1,DR_9,DR,DR_late
+DR_9_1_8,Diaporthe sp JZG_2013c,1,DR_9_1,DR_9,DR,DR_late
+DR_9_10_15,Discosia sp 1 KT_2010,1,DR_9_10,DR_9,DR,DR_late
+DR_9_10_17,Pestalotiopsis funerea,1,DR_9_10,DR_9,DR,DR_late
+DR_9_10_18,Discosia sp 1 KT_2010,1,DR_9_10,DR_9,DR,DR_late
+DR_9_10_19,Discosia sp 1 KT_2010,1,DR_9_10,DR_9,DR,DR_late
+DR_9_10_20,Geosmithia sp U119A,1,DR_9_10,DR_9,DR,DR_late
+DR_9_10_21,Discosia sp 1 KT_2010,1,DR_9_10,DR_9,DR,DR_late
+DR_9_10_4,Thozetella falcata,1,DR_9_10,DR_9,DR,DR_late
+DR_9_10_5,Discosia sp 1 KT_2010,1,DR_9_10,DR_9,DR,DR_late
+DR_9_2_1,Fusarium sp FAN_2011a,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_10,Geosmithia sp U119A,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_11,Fusarium sp FAN_2011a,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_12,Geosmithia sp U119A,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_13,Fusarium sp FAN_2011a,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_16,Geosmithia sp U119A,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_17,Entonaema pallida,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_18,Stachybotrys kampalensis,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_19,Xylaria adscendens,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_20,Xylaria berteri,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_22,Fusarium sp FAN_2011a,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_23,Nemania abortiva,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_24,Cladobotryum cubitense,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_3,Geosmithia sp U119A,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_4,Xylaria allantoidea,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_5,Fusarium sp FAN_2011a,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_6,Xylaria cubensis,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_7,Xylaria curta,1,DR_9_2,DR_9,DR,DR_late
+DR_9_2_9,Xylaria bambusicola,1,DR_9_2,DR_9,DR,DR_late
+DR_9_3_15,Entonaema pallida,1,DR_9_3,DR_9,DR,DR_late
+DR_9_3_20,Discosia sp 1 KT_2010,1,DR_9_3,DR_9,DR,DR_late
+DR_9_3_24,Penicillium paxilli,1,DR_9_3,DR_9,DR,DR_late
+DR_9_3_5,Discosia sp 1 KT_2010,1,DR_9_3,DR_9,DR,DR_late
+DR_9_3_9,Colletotrichum spinaciae,1,DR_9_3,DR_9,DR,DR_late
+DR_9_4_10,Fusarium sp FAN_2011a,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_11,Muscodor albus,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_12,Pestalotiopsis crassiuscula / Pestalotiopsis photiniae,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_16,Phoma cf nebulosa JZG_2008,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_22,Xylaria allantoidea,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_25,Geosmithia sp U119A,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_4,Lasiodiplodia venezuelensis,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_5,Lasiodiplodia venezuelensis,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_6,Thozetella falcata,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_7,Fusarium sp FAN_2011a,1,DR_9_4,DR_9,DR,DR_late
+DR_9_4_8,Xylaria cubensis,1,DR_9_4,DR_9,DR,DR_late
+DR_9_5_1,Xylaria cubensis,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_11,Entonaema pallida,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_12,Nemania abortiva,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_13,Pseudovalsaria ferruginea,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_16,Xylaria cubensis,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_18,Pestalotiopsis vismiae,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_19,Entonaema pallida,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_22,Lasiodiplodia venezuelensis,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_24,Pestalotiopsis vismiae,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_25,Xylaria cubensis,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_5,Pestalotiopsis vismiae,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_8,Guignardia mangiferae,1,DR_9_5,DR_9,DR,DR_late
+DR_9_5_9,Dichomera eucalypti / Neofusicoccum arbuti,1,DR_9_5,DR_9,DR,DR_late
+DR_9_6_14,Pestalotiopsis funerea,1,DR_9_6,DR_9,DR,DR_late
+DR_9_6_17,Discosia sp 7 KT_2010,1,DR_9_6,DR_9,DR,DR_late
+DR_9_6_19,Microdochium bolleyi,1,DR_9_6,DR_9,DR,DR_late
+DR_9_6_2,Microdochium bolleyi,1,DR_9_6,DR_9,DR,DR_late
+DR_9_6_24,Nemania plumbea,1,DR_9_6,DR_9,DR,DR_late
+DR_9_6_3,Microdochium bolleyi,1,DR_9_6,DR_9,DR,DR_late
+DR_9_6_6,Discosia sp 7 KT_2010,1,DR_9_6,DR_9,DR,DR_late
+DR_9_7_1,Diaporthe sp JZG_2013c,1,DR_9_7,DR_9,DR,DR_late
+DR_9_7_13,Xylaria cubensis,1,DR_9_7,DR_9,DR,DR_late
+DR_9_7_22,Beauveria felina,1,DR_9_7,DR_9,DR,DR_late
+DR_9_7_6,Xylaria cubensis,1,DR_9_7,DR_9,DR,DR_late
+DR_9_7_9,Exophiala oligosperma,1,DR_9_7,DR_9,DR,DR_late
+DR_9_8_1,Pestalotiopsis funerea,1,DR_9_8,DR_9,DR,DR_late
+DR_9_8_12,Discosia sp 1 KT_2010,1,DR_9_8,DR_9,DR,DR_late
+DR_9_8_13,Xylaria longipes,1,DR_9_8,DR_9,DR,DR_late
+DR_9_8_14,Menispora ciliata,1,DR_9_8,DR_9,DR,DR_late
+DR_9_8_15,Discosia sp 7 KT_2010,1,DR_9_8,DR_9,DR,DR_late
+DR_9_8_17,Microdochium bolleyi,1,DR_9_8,DR_9,DR,DR_late
+DR_9_8_3,Daldinia loculata,1,DR_9_8,DR_9,DR,DR_late
+DR_9_8_4,Coniolariella hispanica,1,DR_9_8,DR_9,DR,DR_late
+DR_9_8_8,Discosia sp 1 KT_2010,1,DR_9_8,DR_9,DR,DR_late
+DR_9_9_13,Xylaria curta,1,DR_9_9,DR_9,DR,DR_late
+DR_9_9_9,Endomelanconiopsis endophytica,1,DR_9_9,DR_9,DR,DR_late
+PSG_1_1_1,Colletotrichum ignotum,1,PSG_1_1,PSG_1,PSG,PSG
+PSG_1_1_13,Colletotrichum ignotum,1,PSG_1_1,PSG_1,PSG,PSG
+PSG_1_1_17,Pleurostoma ootheca,1,PSG_1_1,PSG_1,PSG,PSG
+PSG_1_1_19,Xylaria multiplex,1,PSG_1_1,PSG_1,PSG,PSG
+PSG_1_1_2,Clonostachys phyllophila,1,PSG_1_1,PSG_1,PSG,PSG
+PSG_1_1_22,Colletotrichum ignotum,1,PSG_1_1,PSG_1,PSG,PSG
+PSG_1_1_4,Acremonium zeae,1,PSG_1_1,PSG_1,PSG,PSG
+PSG_1_1_8,Chaetomium interruptum,1,PSG_1_1,PSG_1,PSG,PSG
+PSG_1_2_1,Xylaria ianthinovelutina,1,PSG_1_2,PSG_1,PSG,PSG
+PSG_1_2_10,Xylaria allantoidea,1,PSG_1_2,PSG_1,PSG,PSG
+PSG_1_2_13,Pleurostoma ootheca,1,PSG_1_2,PSG_1,PSG,PSG
+PSG_1_2_14,Xylaria longipes,1,PSG_1_2,PSG_1,PSG,PSG
+PSG_1_2_17,Cryphonectria macrospora / Cryphonectria nitschkei,1,PSG_1_2,PSG_1,PSG,PSG
+PSG_1_2_18,Xylaria cubensis,1,PSG_1_2,PSG_1,PSG,PSG
+PSG_1_2_22,Anthostomella eucalyptorum,1,PSG_1_2,PSG_1,PSG,PSG
+PSG_1_2_9,Xylaria bambusicola,1,PSG_1_2,PSG_1,PSG,PSG
+PSG_10_1_10,Hypoxylon monticulosum,1,PSG_10_1,PSG_10,PSG,PSG
+PSG_10_1_15,Colletotrichum metake,1,PSG_10_1,PSG_10,PSG,PSG
+PSG_10_1_21,Phaeoacremonium parasiticum,1,PSG_10_1,PSG_10,PSG,PSG
+PSG_10_1_26,Phyllosticta citriasiana,1,PSG_10_1,PSG_10,PSG,PSG
+PSG_10_1_35,Guignardia mangiferae,1,PSG_10_1,PSG_10,PSG,PSG
+PSG_10_1_39,Xylaria cubensis,1,PSG_10_1,PSG_10,PSG,PSG
+PSG_10_2_1,Phyllosticta citriasiana,1,PSG_10_2,PSG_10,PSG,PSG
+PSG_10_2_12,Phyllosticta citriasiana,1,PSG_10_2,PSG_10,PSG,PSG
+PSG_10_2_14,Xylaria cubensis,1,PSG_10_2,PSG_10,PSG,PSG
+PSG_10_2_21,Rosellinia bambusae,1,PSG_10_2,PSG_10,PSG,PSG
+PSG_10_2_24,Colletotrichum ignotum,1,PSG_10_2,PSG_10,PSG,PSG
+PSG_10_2_3,Geosmithia sp U119A,1,PSG_10_2,PSG_10,PSG,PSG
+PSG_10_2_37,Valsa mali var pyri,1,PSG_10_2,PSG_10,PSG,PSG
+PSG_10_2_4,Sarcinomyces petricola,1,PSG_10_2,PSG_10,PSG,PSG
+PSG_10_3_11,Colletotrichum dracaenophilum,1,PSG_10_3,PSG_10,PSG,PSG
+PSG_10_3_15,Xylaria longipes,1,PSG_10_3,PSG_10,PSG,PSG
+PSG_10_3_3,Guignardia citricarpa,1,PSG_10_3,PSG_10,PSG,PSG
+PSG_10_3_30,Colletotrichum petchii,1,PSG_10_3,PSG_10,PSG,PSG
+PSG_10_3_4,Phaeoacremonium angustius,1,PSG_10_3,PSG_10,PSG,PSG
+PSG_10_3_40,Valsa ceratosperma / Valsa mali,1,PSG_10_3,PSG_10,PSG,PSG
+PSG_10_3_6,Anthostomella eucalyptorum,1,PSG_10_3,PSG_10,PSG,PSG
+PSG_10_4_16,Diaporthe sp 12 PRJ_2013,1,PSG_10_4,PSG_10,PSG,PSG
+PSG_10_4_18,Anthostomella eucalyptorum,1,PSG_10_4,PSG_10,PSG,PSG
+PSG_10_4_36,Phaeoacremonium globosum,1,PSG_10_4,PSG_10,PSG,PSG
+PSG_10_4_8,Phaeoacremonium parasiticum,1,PSG_10_4,PSG_10,PSG,PSG
+PSG_10_4_9,Bionectria grammicosporopsis,1,PSG_10_4,PSG_10,PSG,PSG
+PSG_11_1_18,Phaeoacremonium angustius,1,PSG_11_1,PSG_11,PSG,PSG
+PSG_11_1_2,Xylaria bambusicola,1,PSG_11_1,PSG_11,PSG,PSG
+PSG_11_1_20,Xylaria apoda,1,PSG_11_1,PSG_11,PSG,PSG
+PSG_11_1_36,Nemania abortiva,1,PSG_11_1,PSG_11,PSG,PSG
+PSG_11_1_38,Diatrype flavovirens,1,PSG_11_1,PSG_11,PSG,PSG
+PSG_11_1_39,Eutypa lata,1,PSG_11_1,PSG_11,PSG,PSG
+PSG_11_1_40,Ophiocordyceps stylophora,1,PSG_11_1,PSG_11,PSG,PSG
+PSG_11_2_1,Xylaria bambusicola,1,PSG_11_2,PSG_11,PSG,PSG
+PSG_11_2_12,Entonaema pallida,1,PSG_11_2,PSG_11,PSG,PSG
+PSG_11_2_19,Anthostomella eucalyptorum,1,PSG_11_2,PSG_11,PSG,PSG
+PSG_11_2_24,Phaeoacremonium globosum,1,PSG_11_2,PSG_11,PSG,PSG
+PSG_11_2_3,Anthostomella eucalyptorum,1,PSG_11_2,PSG_11,PSG,PSG
+PSG_11_3_13,Anthostomella eucalyptorum,1,PSG_11_3,PSG_11,PSG,PSG
+PSG_11_3_17,Eutypa lata,1,PSG_11_3,PSG_11,PSG,PSG
+PSG_11_3_29,Xylaria bambusicola,1,PSG_11_3,PSG_11,PSG,PSG
+PSG_11_3_37,Anthostomella eucalyptorum,1,PSG_11_3,PSG_11,PSG,PSG
+PSG_11_3_9,Anthostomella eucalyptorum,1,PSG_11_3,PSG_11,PSG,PSG
+PSG_11_4_12,Anthostomella eucalyptorum,1,PSG_11_4,PSG_11,PSG,PSG
+PSG_11_4_15,Coniolariella hispanica,1,PSG_11_4,PSG_11,PSG,PSG
+PSG_11_4_19,Valsa mali var pyri,1,PSG_11_4,PSG_11,PSG,PSG
+PSG_11_4_34,Anthostomella eucalyptorum,1,PSG_11_4,PSG_11,PSG,PSG
+PSG_11_5_17,Colletotrichum spinaciae,1,PSG_11_5,PSG_11,PSG,PSG
+PSG_11_5_29,Phaeoacremonium globosum,1,PSG_11_5,PSG_11,PSG,PSG
+PSG_12_1_11,Diaporthe ambigua,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_12,Colletotrichum dracaenophilum,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_13,Anthostomella eucalyptorum,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_14,Colletotrichum dracaenophilum,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_15,Colletotrichum ignotum,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_16,Pleurostoma ootheca,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_17,Colletotrichum ignotum,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_18,Glomerella acutata / Glomerella fioriniae,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_19,Stilbohypoxylon quisquiliarum,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_22,Campylospora sp ML_2012,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_24,Nemania abortiva,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_25,Glomerella septospora,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_27,Phaeocytostroma ambiguum,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_29,Rosellinia bambusae,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_33,Phyllosticta citriasiana,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_34,Fusarium sp FAN_2011a,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_35,Colletotrichum spinaciae,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_36,Endomelanconiopsis endophytica,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_39,Colletotrichum ignotum,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_7,Xylaria allantoidea,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_1_9,Stachybotrys kampalensis,1,PSG_12_1,PSG_12,PSG,PSG
+PSG_12_2_1,Hypoxylon investiens,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_10,Anthostomella eucalyptorum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_13,Colletotrichum ignotum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_14,Colletotrichum ignotum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_15,Colletotrichum ignotum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_16,Phyllosticta citriasiana,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_17,Diaporthe sp FLS_2010,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_19,Diplogelasinospora grovesii,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_20,Guignardia citricarpa,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_22,Xylaria adscendens,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_23,Xylaria bambusicola,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_24,Colletotrichum ignotum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_26,Phaeocytostroma ambiguum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_29,Coccomyces dentatus,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_32,Endomelanconiopsis endophytica,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_33,Colletotrichum ignotum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_35,Endomelanconiopsis endophytica,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_36,Xylaria cubensis,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_37,Colletotrichum ignotum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_38,Entonaema pallida,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_4,Xylaria cubensis,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_5,Eutypa lata,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_12_2_6,Colletotrichum ignotum,1,PSG_12_2,PSG_12,PSG,PSG
+PSG_13_1_10,Muscodor albus,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_11,Valsa mali var pyri,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_12,Guignardia mangiferae,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_13,Hypoxylon monticulosum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_16,Anthostomella eucalyptorum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_17,Colletotrichum ignotum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_18,Annulohypoxylon atroroseum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_19,Anthostomella eucalyptorum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_2,Pleurostoma ootheca,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_20,Xylaria adscendens,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_21,Entonaema pallida,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_22,Scytalidium thermophilum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_23,Xylaria longipes,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_24,Ophiocordyceps stylophora,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_26,Endomelanconiopsis endophytica,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_28,Anthostomella eucalyptorum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_29,Annulohypoxylon stygium,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_30,Pleurostoma ootheca,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_33,Colletotrichum ignotum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_34,Colletotrichum ignotum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_36,Geosmithia sp U119A,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_37,Guignardia mangiferae,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_38,Anthostomella eucalyptorum,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_40,Xylaria ianthinovelutina,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_6,Xylaria adscendens,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_7,Entonaema pallida,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_8,Phoma bellidis / Phoma senecionis,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_1_9,Xylaria cubensis,1,PSG_13_1,PSG_13,PSG,PSG
+PSG_13_2_1,Nemania abortiva,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_10,Colletotrichum ignotum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_12,Entonaema pallida,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_13,Hypoxylon monticulosum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_14,Pleurostoma ootheca,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_16,Colletotrichum ignotum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_17,Calonectria pteridis,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_18,Thielavia microspora,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_19,Valsa mali var pyri,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_2,Chaetomium erectum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_20,Xylaria cubensis,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_24,Xylaria venosula,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_25,Colletotrichum ignotum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_26,Valsa salicina,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_27,Glomerella cingulata,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_28,Xylaria venosula,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_29,Colletotrichum ignotum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_3,Diaporthe ambigua,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_30,Anthostomella eucalyptorum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_32,Xylaria cubensis,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_33,Guignardia mangiferae,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_35,Hypoxylon cercidicola,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_36,Xylaria longipes,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_37,Scytalidium thermophilum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_38,Anthostomella eucalyptorum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_40,Anthostomella eucalyptorum,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_6,Valsa ceratosperma / Valsa mali,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_7,Guignardia mangiferae,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_2_8,Valsa salicina,1,PSG_13_2,PSG_13,PSG,PSG
+PSG_13_3_1,Colletotrichum ignotum,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_11,Xylaria adscendens,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_13,Colletotrichum ignotum,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_15,Pleurostoma ootheca,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_17,Diaporthe melonis var. brevistylospora,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_19,Colletotrichum ignotum,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_22,Guignardia mangiferae,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_23,Anthostomella eucalyptorum,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_26,Xylaria venosula,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_29,Geosmithia rufescens,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_3,Cryptodiaporthe galericulata,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_31,Hypoxylon monticulosum,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_32,Guignardia mangiferae,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_33,Anthostomella eucalyptorum,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_36,Pseudovalsaria ferruginea,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_37,Guignardia mangiferae,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_4,Anthostomella eucalyptorum,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_40,Daldinia petriniae,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_6,Pseudovalsaria ferruginea,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_3_7,Colletotrichum ignotum,1,PSG_13_3,PSG_13,PSG,PSG
+PSG_13_4_1,Anthostomella eucalyptorum,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_10,Pleurostoma ootheca,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_11,Pleurostoma ootheca,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_12,Phyllosticta citriasiana,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_13,Guignardia mangiferae,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_14,Colletotrichum ignotum,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_15,Guignardia citricarpa,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_16,Guignardia mangiferae,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_17,Xylaria cubensis,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_19,Sigmoidea parvula,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_2,Colletotrichum ignotum,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_20,Pleurostoma ootheca,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_21,Hypoxylon monticulosum,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_22,Chaetomium interruptum,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_24,Guignardia mangiferae,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_27,Guignardia mangiferae,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_28,Hypoxylon monticulosum,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_29,Colletotrichum ignotum,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_31,Guignardia mangiferae,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_34,Xylaria cubensis,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_35,Xylaria liquidambaris / Xylaria persicaria,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_39,Guignardia mangiferae,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_4,Podospora myriaspora,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_40,Guignardia mangiferae,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_5,Xylaria curta,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_7,Colletotrichum ignotum,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_8,Glomerella septospora,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_13_4_9,Guignardia mangiferae,1,PSG_13_4,PSG_13,PSG,PSG
+PSG_2_1_1,Guignardia citricarpa,1,PSG_2_1,PSG_2,PSG,PSG
+PSG_2_1_16,Xylaria cubensis,1,PSG_2_1,PSG_2,PSG,PSG
+PSG_2_1_18,Xylaria curta,1,PSG_2_1,PSG_2,PSG,PSG
+PSG_2_1_20,Xylaria allantoidea,1,PSG_2_1,PSG_2,PSG,PSG
+PSG_2_1_23,Xylaria allantoidea,1,PSG_2_1,PSG_2,PSG,PSG
+PSG_2_1_3,Anthostomella eucalyptorum,1,PSG_2_1,PSG_2,PSG,PSG
+PSG_2_1_7,Phaeocytostroma ambiguum,1,PSG_2_1,PSG_2,PSG,PSG
+PSG_2_2_10,Nemania sp JJP_2009a,1,PSG_2_2,PSG_2,PSG,PSG
+PSG_2_2_15,Pseudovalsaria ferruginea,1,PSG_2_2,PSG_2,PSG,PSG
+PSG_2_2_16,Bionectria aff ochroleuca ROG_2010 / Clonostachys rosea,1,PSG_2_2,PSG_2,PSG,PSG
+PSG_2_2_17,Xylaria bambusicola,1,PSG_2_2,PSG_2,PSG,PSG
+PSG_2_2_19,Colletotrichum spinaciae,1,PSG_2_2,PSG_2,PSG,PSG
+PSG_2_2_21,Colletotrichum ignotum,1,PSG_2_2,PSG_2,PSG,PSG
+PSG_2_2_25,Colletotrichum spinaciae,1,PSG_2_2,PSG_2,PSG,PSG
+PSG_2_2_3,Xylaria liquidambaris / Xylaria persicaria,1,PSG_2_2,PSG_2,PSG,PSG
+PSG_3_1_22,Xylaria allantoidea,1,PSG_3_1,PSG_3,PSG,PSG
+PSG_3_1_24,Phaeoacremonium angustius,1,PSG_3_1,PSG_3,PSG,PSG
+PSG_3_1_4,Rosellinia bambusae,1,PSG_3_1,PSG_3,PSG,PSG
+PSG_3_1_6,Valsa ceratosperma / Valsa mali,1,PSG_3_1,PSG_3,PSG,PSG
+PSG_3_1_9,Colletotrichum ignotum,1,PSG_3_1,PSG_3,PSG,PSG
+PSG_3_2_11,Oidiodendron flavum,1,PSG_3_2,PSG_3,PSG,PSG
+PSG_3_2_14,Seimatosporium botan,1,PSG_3_2,PSG_3,PSG,PSG
+PSG_3_2_17,Diaporthe hickoriae,1,PSG_3_2,PSG_3,PSG,PSG
+PSG_3_2_18,Glomerella acutata / Glomerella fioriniae,1,PSG_3_2,PSG_3,PSG,PSG
+PSG_3_2_2,Colletotrichum ignotum,1,PSG_3_2,PSG_3,PSG,PSG
+PSG_3_3_22,Glomerella acutata / Glomerella fioriniae,1,PSG_3_3,PSG_3,PSG,PSG
+PSG_3_4_13,Anthostomella eucalyptorum,1,PSG_3_4,PSG_3,PSG,PSG
+PSG_3_4_15,Zopfiella longicaudata,1,PSG_3_4,PSG_3,PSG,PSG
+PSG_3_4_17,Oidiodendron flavum,1,PSG_3_4,PSG_3,PSG,PSG
+PSG_3_4_3,Podospora cupiformis,1,PSG_3_4,PSG_3,PSG,PSG
+PSG_3_5_3,Glomerella acutata / Glomerella fioriniae,1,PSG_3_5,PSG_3,PSG,PSG
+PSG_3_5_8,Zopfiella longicaudata,1,PSG_3_5,PSG_3,PSG,PSG
+PSG_4_1_11,Eutypa lata,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_13,Podospora fimiseda,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_14,Colletotrichum spinaciae,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_15,Xylaria cubensis,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_16,Massarina igniaria,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_17,Xylaria cubensis,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_18,Anthostomella eucalyptorum,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_19,Anthostomella eucalyptorum,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_2,Xylaria liquidambaris / Xylaria persicaria,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_23,Xylaria cubensis,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_4,Oidiodendron flavum,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_5,Falcocladium multivesiculatum,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_1_8,Xylaria allantoidea,1,PSG_4_1,PSG_4,PSG,PSG
+PSG_4_2_11,Hypoxylon monticulosum,1,PSG_4_2,PSG_4,PSG,PSG
+PSG_4_2_5,Diatrypella vulgaris,1,PSG_4_2,PSG_4,PSG,PSG
+PSG_4_2_8,Xylaria cubensis,1,PSG_4_2,PSG_4,PSG,PSG
+PSG_4_3_11,Bionectria aff ochroleuca ROG_2010 / Clonostachys rosea,1,PSG_4_3,PSG_4,PSG,PSG
+PSG_4_3_14,Colletotrichum dracaenophilum,1,PSG_4_3,PSG_4,PSG,PSG
+PSG_4_3_15,Anthostomella eucalyptorum,1,PSG_4_3,PSG_4,PSG,PSG
+PSG_4_3_2,Diaporthe sp JZG_2013l,1,PSG_4_3,PSG_4,PSG,PSG
+PSG_4_3_24,Valsa salicina,1,PSG_4_3,PSG_4,PSG,PSG
+PSG_4_3_7,Campylospora sp ML_2012,1,PSG_4_3,PSG_4,PSG,PSG
+PSG_4_3_9,Glomerella acutata / Glomerella fioriniae,1,PSG_4_3,PSG_4,PSG,PSG
+PSG_4_4_10,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_13,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_14,Xylaria berteri,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_15,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_18,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_2,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_20,Phaeoacremonium globosum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_21,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_22,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_25,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_3,Xylaria cubensis,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_4,Anthostomella eucalyptorum,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_4_9,Phaeoacremonium angustius,1,PSG_4_4,PSG_4,PSG,PSG
+PSG_4_5_12,Xylaria bambusicola,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_15,Xylaria cubensis,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_16,Xylaria laevis,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_2,Anthostomella eucalyptorum,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_27,Anthostomella eucalyptorum,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_3,Xylaria enteroleuca,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_32,Xylaria longipes,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_37,Xylaria allantoidea,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_38,Colletotrichum cliviae,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_39,Xylaria multiplex,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_42,Anthostomella eucalyptorum,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_5_9,Anthostomella eucalyptorum,1,PSG_4_5,PSG_4,PSG,PSG
+PSG_4_6_11,Anthostomella eucalyptorum,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_17,Xylaria bambusicola,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_22,Anthostomella eucalyptorum,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_24,Eutypa lata,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_30,Anthostomella eucalyptorum,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_34,Xylaria schweinitzii,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_35,Colletotrichum ignotum,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_38,Anthostomella eucalyptorum,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_6,Melanconiella flavovirens,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_8,Phyllosticta citriasiana,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_6_9,Guignardia mangiferae,1,PSG_4_6,PSG_4,PSG,PSG
+PSG_4_7_1,Anthostomella eucalyptorum,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_11,Xylaria allantoidea,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_12,Anthostomella eucalyptorum,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_15,Anthostomella eucalyptorum,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_17,Daldinia loculata,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_26,Anthostomella eucalyptorum,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_29,Anthostomella eucalyptorum,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_30,Colletotrichum dracaenophilum,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_31,Anthostomella eucalyptorum,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_32,Xylaria nigripes,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_36,Anthostomella eucalyptorum,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_38,Daldinia petriniae,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_4,Diaporthe neoviticola,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_5,Xylaria cubensis,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_4_7_6,Nectria balansae,1,PSG_4_7,PSG_4,PSG,PSG
+PSG_5_1_1,Phaeoacremonium angustius,1,PSG_5_1,PSG_5,PSG,PSG
+PSG_5_1_15,Morchella sp Mes_26,1,PSG_5_1,PSG_5,PSG,PSG
+PSG_5_1_25,Anthostomella eucalyptorum,1,PSG_5_1,PSG_5,PSG,PSG
+PSG_5_1_31,Anthostomella eucalyptorum,1,PSG_5_1,PSG_5,PSG,PSG
+PSG_5_1_32,Coniolariella hispanica,1,PSG_5_1,PSG_5,PSG,PSG
+PSG_5_1_39,Xylaria allantoidea,1,PSG_5_1,PSG_5,PSG,PSG
+PSG_5_1_40,Anthostomella eucalyptorum,1,PSG_5_1,PSG_5,PSG,PSG
+PSG_5_2_21,Xylaria bambusicola,1,PSG_5_2,PSG_5,PSG,PSG
+PSG_5_2_26,Anthostomella eucalyptorum,1,PSG_5_2,PSG_5,PSG,PSG
+PSG_5_2_30,Hypoxylon rickii,1,PSG_5_2,PSG_5,PSG,PSG
+PSG_5_2_31,Colletotrichum spinaciae,1,PSG_5_2,PSG_5,PSG,PSG
+PSG_5_2_33,Anthostomella eucalyptorum,1,PSG_5_2,PSG_5,PSG,PSG
+PSG_5_2_9,Anthostomella eucalyptorum,1,PSG_5_2,PSG_5,PSG,PSG
+PSG_5_3_12,Muscodor albus,1,PSG_5_3,PSG_5,PSG,PSG
+PSG_5_3_13,Geosmithia rufescens,1,PSG_5_3,PSG_5,PSG,PSG
+PSG_5_3_19,Podospora cupiformis,1,PSG_5_3,PSG_5,PSG,PSG
+PSG_5_3_20,Colletotrichum panacicola,1,PSG_5_3,PSG_5,PSG,PSG
+PSG_5_3_30,Hypoxylon investiens,1,PSG_5_3,PSG_5,PSG,PSG
+PSG_5_3_39,Anthostomella eucalyptorum,1,PSG_5_3,PSG_5,PSG,PSG
+PSG_5_3_4,Anthostomella eucalyptorum,1,PSG_5_3,PSG_5,PSG,PSG
+PSG_5_4_1,Xylaria longipes,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_13,Colletotrichum spinaciae,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_16,Xylaria cubensis,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_2,Eutypa lata,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_3,Muscodor fengyangensis,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_31,Xylaria cubensis,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_32,Xylaria cubensis,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_34,Diaporthe sp JZG_2013c,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_38,Anthostomella eucalyptorum,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_4_9,Anthostomella eucalyptorum,1,PSG_5_4,PSG_5,PSG,PSG
+PSG_5_5_10,Anthostomella eucalyptorum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_13,Oidiodendron flavum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_15,Anthostomella eucalyptorum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_17,Anthostomella eucalyptorum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_2,Colletotrichum spinaciae,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_21,Anthostomella eucalyptorum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_24,Anthostomella eucalyptorum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_26,Anthostomella eucalyptorum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_28,Anthostomella eucalyptorum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_3,Pestalotiopsis fici,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_33,Xylaria allantoidea,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_5,Anthostomella eucalyptorum,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_5_7,Coniolariella hispanica,1,PSG_5_5,PSG_5,PSG,PSG
+PSG_5_6_1,Entonaema pallida,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_12,Anthostomella eucalyptorum,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_14,Bionectria aff ochroleuca ROG_2010 / Clonostachys rosea,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_18,Valsa ceratosperma / Valsa mali,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_2,Daldinia petriniae,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_28,Xylaria curta,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_3,Xylaria cubensis,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_32,Xylaria cubensis,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_37,Eutypa lata,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_5_6_38,Anthostomella eucalyptorum,1,PSG_5_6,PSG_5,PSG,PSG
+PSG_6_1_1,Anthostomella eucalyptorum,1,PSG_6_1,PSG_6,PSG,PSG
+PSG_6_1_11,Anthostomella eucalyptorum,1,PSG_6_1,PSG_6,PSG,PSG
+PSG_6_1_12,Colletotrichum spinaciae,1,PSG_6_1,PSG_6,PSG,PSG
+PSG_6_1_19,Xylaria cubensis,1,PSG_6_1,PSG_6,PSG,PSG
+PSG_6_1_23,Colletotrichum ignotum,1,PSG_6_1,PSG_6,PSG,PSG
+PSG_6_1_28,Colletotrichum spinaciae,1,PSG_6_1,PSG_6,PSG,PSG
+PSG_6_1_33,Entonaema pallida,1,PSG_6_1,PSG_6,PSG,PSG
+PSG_6_1_8,Colletotrichum ignotum,1,PSG_6_1,PSG_6,PSG,PSG
+PSG_6_2_10,Anthostomella eucalyptorum,1,PSG_6_2,PSG_6,PSG,PSG
+PSG_6_2_13,Campylospora sp ML_2012,1,PSG_6_2,PSG_6,PSG,PSG
+PSG_6_2_3,Thielavia microspora,1,PSG_6_2,PSG_6,PSG,PSG
+PSG_6_2_31,Hypoxylon investiens,1,PSG_6_2,PSG_6,PSG,PSG
+PSG_6_3_13,Daldinia petriniae,1,PSG_6_3,PSG_6,PSG,PSG
+PSG_6_3_15,Xylaria longipes,1,PSG_6_3,PSG_6,PSG,PSG
+PSG_6_3_26,Xylaria allantoidea,1,PSG_6_3,PSG_6,PSG,PSG
+PSG_6_3_37,Phyllosticta citriasiana,1,PSG_6_3,PSG_6,PSG,PSG
+PSG_6_3_9,Diaporthe sp JZG_2013c,1,PSG_6_3,PSG_6,PSG,PSG
+PSG_6_4_1,Diaporthe phaseolorum,1,PSG_6_4,PSG_6,PSG,PSG
+PSG_6_4_22,Nemania abortiva,1,PSG_6_4,PSG_6,PSG,PSG
+PSG_6_4_29,Anthostomella eucalyptorum,1,PSG_6_4,PSG_6,PSG,PSG
+PSG_6_4_34,Anthostomella eucalyptorum,1,PSG_6_4,PSG_6,PSG,PSG
+PSG_6_4_4,Colletotrichum ignotum,1,PSG_6_4,PSG_6,PSG,PSG
+PSG_6_4_8,Colletotrichum ignotum,1,PSG_6_4,PSG_6,PSG,PSG
+PSG_6_5_20,Daldinia petriniae,1,PSG_6_5,PSG_6,PSG,PSG
+PSG_6_5_25,Xylaria cubensis,1,PSG_6_5,PSG_6,PSG,PSG
+PSG_6_5_5,Xylaria cubensis,1,PSG_6_5,PSG_6,PSG,PSG
+PSG_6_6_23,Anthostomella eucalyptorum,1,PSG_6_6,PSG_6,PSG,PSG
+PSG_6_6_26,Anthostomella eucalyptorum,1,PSG_6_6,PSG_6,PSG,PSG
+PSG_6_6_9,Xylaria cubensis,1,PSG_6_6,PSG_6,PSG,PSG
+PSG_6_7_34,Coniothyrium minitans,1,PSG_6_7,PSG_6,PSG,PSG
+PSG_6_8_1,Xylaria bambusicola,1,PSG_6_8,PSG_6,PSG,PSG
+PSG_6_8_2,Xylaria laevis,1,PSG_6_8,PSG_6,PSG,PSG
+PSG_6_8_29,Anthostomella eucalyptorum,1,PSG_6_8,PSG_6,PSG,PSG
+PSG_6_8_32,Xylaria laevis,1,PSG_6_8,PSG_6,PSG,PSG
+PSG_6_8_38,Xylaria curta,1,PSG_6_8,PSG_6,PSG,PSG
+PSG_6_8_40,Anthostomella eucalyptorum,1,PSG_6_8,PSG_6,PSG,PSG
+PSG_6_8_5,Anthostomella eucalyptorum,1,PSG_6_8,PSG_6,PSG,PSG
+PSG_7_1_13,Phyllosticta citriasiana,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_15,Colletotrichum ignotum,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_16,Melanconium oblongum,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_2,Pleurostoma ootheca,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_21,Melanconium oblongum,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_27,Geosmithia sp U119A,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_32,Glomerella septospora,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_33,Xylaria allantoidea,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_34,Colletotrichum boninense,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_39,Guignardia mangiferae,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_1_40,Valsa ceratosperma / Valsa mali,1,PSG_7_1,PSG_7,PSG,PSG
+PSG_7_2_1,Guignardia mangiferae,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_11,Colletotrichum ignotum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_13,Botryosphaeria rhodina,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_14,Guignardia mangiferae,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_15,Colletotrichum ignotum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_2,Nemania abortiva,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_21,Colletotrichum ignotum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_22,Muscodor albus,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_26,Xylaria cubensis,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_29,Guignardia mangiferae,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_32,Anthostomella eucalyptorum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_35,Anthostomella eucalyptorum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_37,Phaeoacremonium globosum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_4,Anthostomella eucalyptorum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_5,Colletotrichum ignotum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_7,Colletotrichum ignotum,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_2_9,Diaporthe sp 12 PRJ_2013,1,PSG_7_2,PSG_7,PSG,PSG
+PSG_7_3_20,Guignardia mangiferae,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_3_22,Pseudovalsaria ferruginea,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_3_23,Phyllosticta citriasiana,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_3_25,Phyllosticta citriasiana,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_3_26,Guignardia mangiferae,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_3_31,Xylaria bambusicola,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_3_38,Colletotrichum dracaenophilum,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_3_8,Chaetomium madrasense,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_3_9,Diaporthe phaseolorum,1,PSG_7_3,PSG_7,PSG,PSG
+PSG_7_4_1,Colletotrichum ignotum,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_10,Xylaria berteri,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_15,Melanconium oblongum,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_21,Colletotrichum ignotum,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_23,Colletotrichum ignotum,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_25,Guignardia mangiferae,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_29,Therrya fuckelii,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_3,Anthostomella eucalyptorum,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_31,Guignardia mangiferae,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_33,Guignardia mangiferae,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_34,Scytalidium thermophilum,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_4_9,Trichothecium crotocinigenum,1,PSG_7_4,PSG_7,PSG,PSG
+PSG_7_5_10,Colletotrichum ignotum,1,PSG_7_5,PSG_7,PSG,PSG
+PSG_7_5_17,Guignardia citricarpa,1,PSG_7_5,PSG_7,PSG,PSG
+PSG_7_5_2,Colletotrichum ignotum,1,PSG_7_5,PSG_7,PSG,PSG
+PSG_7_5_20,Anthostomella eucalyptorum,1,PSG_7_5,PSG_7,PSG,PSG
+PSG_7_5_25,Anthostomella eucalyptorum,1,PSG_7_5,PSG_7,PSG,PSG
+PSG_7_5_8,Guignardia mangiferae,1,PSG_7_5,PSG_7,PSG,PSG
+PSG_8_1_1,Anthostomella eucalyptorum,1,PSG_8_1,PSG_8,PSG,PSG
+PSG_8_1_15,Guignardia mangiferae,1,PSG_8_1,PSG_8,PSG,PSG
+PSG_8_1_18,Diaporthe sp 12 PRJ_2013,1,PSG_8_1,PSG_8,PSG,PSG
+PSG_8_1_22,Guignardia mangiferae,1,PSG_8_1,PSG_8,PSG,PSG
+PSG_8_1_8,Xylaria curta,1,PSG_8_1,PSG_8,PSG,PSG
+PSG_8_2_18,Anthostomella eucalyptorum,1,PSG_8_2,PSG_8,PSG,PSG
+PSG_8_2_29,Guignardia mangiferae,1,PSG_8_2,PSG_8,PSG,PSG
+PSG_8_3_10,Guignardia mangiferae,1,PSG_8_3,PSG_8,PSG,PSG
+PSG_8_3_15,Pestalotiopsis karstenii,1,PSG_8_3,PSG_8,PSG,PSG
+PSG_8_3_3,Xylaria curta,1,PSG_8_3,PSG_8,PSG,PSG
+PSG_8_3_33,Nemania abortiva,1,PSG_8_3,PSG_8,PSG,PSG
+PSG_9_1_16,Anthostomella eucalyptorum,1,PSG_9_1,PSG_9,PSG,PSG
+PSG_9_1_18,Prosthecium acerophilum / Prosthecium pyriforme,1,PSG_9_1,PSG_9,PSG,PSG
+PSG_9_1_5,Anthostomella eucalyptorum,1,PSG_9_1,PSG_9,PSG,PSG
+PSG_9_3_1,Coniolariella hispanica,1,PSG_9_3,PSG_9,PSG,PSG
+PSG_9_4_18,Lachnum pygmaeum,1,PSG_9_4,PSG_9,PSG,PSG
+PSG_9_5_21,Diaporthe melonis var. brevistylospora,1,PSG_9_5,PSG_9,PSG,PSG
+PSG_9_5_23,Xylaria bambusicola,1,PSG_9_5,PSG_9,PSG,PSG
+PSG_9_5_24,Anthostomella eucalyptorum,1,PSG_9_5,PSG_9,PSG,PSG
